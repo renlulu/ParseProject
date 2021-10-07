@@ -1,7 +1,7 @@
 ---
 name: Flat Lazy Ass Token
 description: 
-logo: 
+logo: Yes
 categories: Meme Token
 status: Live
 twitter: 

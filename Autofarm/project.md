@@ -1,7 +1,7 @@
 ---
 name: Autofarm
 description: A yield optimiser on Binance Smart Chain that added BNB/ZIL LP vault.
-logo: 
+logo: no
 categories: Defi
 status: Live
 twitter: https://twitter.com/autofarmnetwork

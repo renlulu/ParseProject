@@ -1,7 +1,7 @@
 ---
 name: HODL
 description: 
-logo: 
+logo: Yes
 categories: Meme Token
 status: Live
 twitter: 

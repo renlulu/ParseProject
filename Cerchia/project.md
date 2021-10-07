@@ -1,7 +1,7 @@
 ---
 name: Cerchia
 description: A platform that allows for automated parametric event risk payouts with smart contracts, facilitated by oracles bridged to specific trigger indices.
-logo: 
+logo: yes
 categories: Defi, Opfi, Prediction
 status: Building
 twitter: NA

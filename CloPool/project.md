@@ -1,7 +1,7 @@
 ---
 name: CloPool
 description: A mining pool which enables users to mine both CLO and ZIL tokens.
-logo: 
+logo: no
 categories: Mining
 status: Live
 twitter: NA

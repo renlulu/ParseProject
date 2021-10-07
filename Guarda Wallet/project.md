@@ -1,7 +1,7 @@
 ---
 name: Guarda Wallet
 description: A custody-free crypto wallet that can store over hundreds of assets.
-logo: 
+logo: yes
 categories: Wallet, staking
 status: Live
 twitter: https://twitter.com/GuardaWallet

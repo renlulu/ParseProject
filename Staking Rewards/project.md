@@ -1,7 +1,7 @@
 ---
 name: Staking Rewards
 description: A data provider for staking and crypto-growth tool.
-logo: 
+logo: no
 categories: Staking
 status: Live
 twitter: https://twitter.com/StakingRewards

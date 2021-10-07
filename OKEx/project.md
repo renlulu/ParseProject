@@ -1,7 +1,7 @@
 ---
 name: OKEx
 description: A secure crypto exchange that makes it easy to buy, sell and trade cryptocurrencies.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/OKEx

@@ -1,7 +1,7 @@
 ---
 name: RupiahToken
 description: The most adopted Indonesian Rupiah stablecoin run on Ethereum and Binance Smart Chains, allowing for users to trade IDR Tokens on crypto exchanges.
-logo: 
+logo: Yes
 categories: Stablecoin
 status: Live
 twitter: NA

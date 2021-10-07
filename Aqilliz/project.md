@@ -1,7 +1,7 @@
 ---
 name: Aqilliz
 description: Powered by Zilliqa, Aqilliz offers blockchain-based solutions for campaign optimisation for the MarTech industry.
-logo: 
+logo: Yes
 categories: Web3
 status: Live
 twitter: https://twitter.com/AqillizOfficial

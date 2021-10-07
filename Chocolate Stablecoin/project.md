@@ -1,7 +1,7 @@
 ---
 name: Chocolate Stablecoin
 description: 
-logo: 
+logo: Yes
 categories: Stablecoin, Defi
 status: Live
 twitter: 

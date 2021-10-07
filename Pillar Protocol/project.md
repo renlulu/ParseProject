@@ -1,7 +1,7 @@
 ---
 name: Pillar Protocol
 description: Protocol for collateral-backed stablecoin soft pegged to USD on Zilliqa.
-logo: 
+logo: no
 categories: Defi
 status: Building
 twitter: https://twitter.com/DevPillar

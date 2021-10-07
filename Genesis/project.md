@@ -1,7 +1,7 @@
 ---
 name: Genesis
 description: 
-logo: 
+logo: No
 categories: Tools
 status: Live
 twitter: NA

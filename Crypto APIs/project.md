@@ -1,7 +1,7 @@
 ---
 name: Crypto APIs
 description: An infrastructure layer that radically simplifies the development of any blockchain and crypto-related applications.
-logo: 
+logo: no
 categories: API
 status: Live
 twitter: https://twitter.com/CryptoApis

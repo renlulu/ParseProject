@@ -1,7 +1,7 @@
 ---
 name: ZilChess
 description: A decentralised chess platform running on the Zilliqa blockchain.
-logo: 
+logo: Yes
 categories: Gaming
 status: Live
 twitter: https://twitter.com/zilchess

@@ -1,7 +1,7 @@
 ---
 name: Changelly
 description: Fast and secure way to exchange and purchase 150+ cryptocurrencies.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/changelly_team

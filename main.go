@@ -37,7 +37,7 @@ func main() {
 		fields := strings.Split(line, "\t")
 		name := convertNA2NA(fields[2])
 		description := convertNA2NA(fields[3])
-		logo := ""
+		logo := convertNA2NA(fields[4])
 		categories := convertNA2NA(fields[6])
 		status := convertNA2NA(fields[7])
 		twitter := convertNA2NA(fields[8])

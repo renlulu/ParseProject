@@ -1,7 +1,7 @@
 ---
 name: Torus
 description: An open-source key management system that is simple, secure and non-custodial.
-logo: 
+logo: no
 categories: API
 status: Live
 twitter: https://twitter.com/TorusLabs

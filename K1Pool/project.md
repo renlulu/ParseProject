@@ -1,7 +1,7 @@
 ---
 name: K1Pool
 description: A multicoin mining pool with PPLNS and SOLO mode.
-logo: 
+logo: Yes
 categories: Mining
 status: Live
 twitter: https://twitter.com/K1Pool

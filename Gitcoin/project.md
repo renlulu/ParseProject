@@ -1,7 +1,7 @@
 ---
 name: Gitcoin
 description: A platform inviting developers to work on open-source dApps, rewarding them for work, helping them to earn, learn and network.
-logo: 
+logo: yes
 categories: Tools
 status: Live
 twitter: https://twitter.com/gitcoin

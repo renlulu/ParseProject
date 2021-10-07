@@ -1,7 +1,7 @@
 ---
 name: Uphold Wallet
 description: A multi-asset trading platform and wallet that enables trading and swapping of anything from US equities to precious metals to cryptocurrencies.
-logo: 
+logo: yes
 categories: Wallet, Exchange
 status: Live
 twitter: https://twitter.com/UpholdInc

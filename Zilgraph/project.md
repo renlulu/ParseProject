@@ -1,7 +1,7 @@
 ---
 name: Zilgraph
 description: An open source dashboard for visualising ZilSwap activity on the Zilliqa blockchain.
-logo: 
+logo: Yes
 categories: Tools
 status: Live
 twitter: https://twitter.com/zilgraph

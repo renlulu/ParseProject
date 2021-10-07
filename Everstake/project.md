@@ -1,7 +1,7 @@
 ---
 name: Everstake
 description: A staking service platform that allows you to stake ZIL.
-logo: 
+logo: No
 categories: Staking
 status: Live
 twitter: https://twitter.com/everstake_pool

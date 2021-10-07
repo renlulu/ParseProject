@@ -1,7 +1,7 @@
 ---
 name: Mintable
 description: An NFT marketplace where users can create, buy, and sell digital items.
-logo: 
+logo: yes
 categories: NFT, dApp
 status: Live
 twitter: https://twitter.com/mintable_app

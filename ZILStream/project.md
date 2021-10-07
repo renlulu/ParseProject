@@ -1,7 +1,7 @@
 ---
 name: ZILStream
 description: ZILStream provides data for ZRC-2 ecosystem tokens and your ZRC-2 portfolio.
-logo: 
+logo: yes
 categories: Dapp, Tools
 status: Live
 twitter: https://twitter.com/zilstream

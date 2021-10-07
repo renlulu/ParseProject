@@ -1,7 +1,7 @@
 ---
 name: DV Trading
 description: 
-logo: 
+logo: no
 categories: Tools
 status: Live
 twitter: 

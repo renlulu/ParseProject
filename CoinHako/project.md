@@ -1,7 +1,7 @@
 ---
 name: CoinHako
 description: The easiest platform to buy Bitcoin and digital assets in Singapore and Asia.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/coinhako

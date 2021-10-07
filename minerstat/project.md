@@ -1,7 +1,7 @@
 ---
 name: minerstat
 description: Shows estimated statistics and earnings on mining for different cryptocurrencies.
-logo: 
+logo: No
 categories: Mining
 status: Live
 twitter: https://twitter.com/minerstatcom

@@ -1,7 +1,7 @@
 ---
 name: ZilPay
 description: A browser-based wallet extension for Zilliqa.
-logo: 
+logo: yes
 categories: Wallet, Web3, Defi, staking
 status: Live
 twitter: https://twitter.com/pay_zil

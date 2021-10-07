@@ -1,7 +1,7 @@
 ---
 name: Viewbase
 description: A digital assets analytics tool with data for analysing exchange wallets, futures, options and margins.
-logo: 
+logo: yes
 categories: API, Explorer
 status: Live
 twitter: NA

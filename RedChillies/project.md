@@ -1,7 +1,7 @@
 ---
 name: RedChillies
 description: Fuels the gaming platform on Zilliqa's blockchain. It is used for smart contracts on web based games and hosting real game events for betting.
-logo: 
+logo: Yes
 categories: Gaming, Prediction, dApp
 status: Live
 twitter: https://twitter.com/_redchillies?lang=en

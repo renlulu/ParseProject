@@ -1,7 +1,7 @@
 ---
 name: Dapp Pocket
 description: A wallet that integrates with DeFi protocols which enables the use of over 2000+ dApps, helping users manage their DeFi portfolio with ease.
-logo: 
+logo: Yes
 categories: Wallet, App
 status: Live
 twitter: https://twitter.com/DappPocket

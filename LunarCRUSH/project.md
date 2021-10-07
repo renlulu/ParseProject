@@ -1,7 +1,7 @@
 ---
 name: LunarCRUSH
 description: A platform that offers real-time social media analytics from different sources specially for cryptocurrencies.
-logo: 
+logo: Yes
 categories: App
 status: Live
 twitter: NA

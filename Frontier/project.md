@@ -1,7 +1,7 @@
 ---
 name: Frontier
 description: A chain-agnostic DeFi aggregation layer that integrated Zilliqa into its wallet.
-logo: 
+logo: Yes
 categories: Staking, Wallet
 status: Live
 twitter: https://twitter.com/FrontierDotXYZ

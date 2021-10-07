@@ -1,7 +1,7 @@
 ---
 name: Zilon
 description: A payment service that allows merchants and users to accept ZIL as a payment.
-logo: 
+logo: No
 categories: Payment
 status: Live
 twitter: https://twitter.com/Zilonofficial

@@ -1,7 +1,7 @@
 ---
 name: Devex
 description: A lightweight, developer focused explorer.
-logo: 
+logo: Yes
 categories: Explorer, API
 status: Live
 twitter: NA

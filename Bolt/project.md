@@ -1,7 +1,7 @@
 ---
 name: Bolt
 description: A decentralised content platform that aims to democratise the chain between content producers and users.
-logo: 
+logo: yes
 categories: Wallet, dApp
 status: Live
 twitter: https://twitter.com/bolt_global

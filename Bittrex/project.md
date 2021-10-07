@@ -1,7 +1,7 @@
 ---
 name: Bittrex
 description: A secure, lightning fast, regulated cryptocurrency trading platform.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/BittrexGlobal

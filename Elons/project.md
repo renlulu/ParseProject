@@ -1,7 +1,7 @@
 ---
 name: Elons
 description: The Elons project is designing the future of NFT airdropping on the Zilliqa platform and is building a fully responsive and adaptable NFT exchange platform.
-logo: 
+logo: Yes
 categories: NFT
 status: Live
 twitter: https://twitter.com/token_elon?lang=en

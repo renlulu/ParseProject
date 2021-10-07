@@ -1,7 +1,7 @@
 ---
 name: Chainlink
 description: The most widely-used open-source oracle network that powers universally connected smart contracts.
-logo: 
+logo: yes
 categories: Oracle
 status: Live
 twitter: https://twitter.com/chainlink

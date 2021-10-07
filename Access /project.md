@@ -1,7 +1,7 @@
 ---
 name: Access 
 description: A decentralised app that provides NFT-based solutions for events and ticketing. 
-logo: 
+logo: No
 categories: Education, NFT
 status: Live
 twitter: https://twitter.com/AccessSg

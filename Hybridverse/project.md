@@ -1,7 +1,7 @@
 ---
 name: Hybridverse
 description: A multi-chain, distributed and shared infrastructure composed of dApps.
-logo: 
+logo: Yes
 categories: Web3
 status: Live
 twitter: NA

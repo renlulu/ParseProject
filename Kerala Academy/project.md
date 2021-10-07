@@ -1,7 +1,7 @@
 ---
 name: Kerala Academy
 description: An initiative under the Government of Kerala, KBA offers blockchain training in multiple domains.
-logo: 
+logo: Yes
 categories: Education
 status: Live
 twitter: NA

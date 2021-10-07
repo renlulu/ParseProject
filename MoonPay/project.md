@@ -1,7 +1,7 @@
 ---
 name: MoonPay
 description: A secure and fast way to buy ZIL.
-logo: 
+logo: Yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/MoonPayHQ

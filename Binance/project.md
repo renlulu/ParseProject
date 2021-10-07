@@ -1,7 +1,7 @@
 ---
 name: Binance
 description: The world's leading cryptocurrency exchange.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/binance

@@ -1,7 +1,7 @@
 ---
 name: Flipside Crypto
 description: Provides business intelligence to crypto organisations. 
-logo: 
+logo: Yes
 categories: API, Tools
 status: Live
 twitter: @flipsidecrypto

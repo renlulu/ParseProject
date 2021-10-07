@@ -1,7 +1,7 @@
 ---
 name: Incognito
 description: A platform which allows its users to purchase and send cryptocurrencies anonymously.
-logo: 
+logo: Yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/incognitochain

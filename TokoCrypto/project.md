@@ -1,7 +1,7 @@
 ---
 name: TokoCrypto
 description: An Indonesian crypto exchange for learning, buying, selling and investing in crypto safely.
-logo: 
+logo: yes
 categories: Exchange
 status: Live
 twitter: https://twitter.com/TokoCrypto
