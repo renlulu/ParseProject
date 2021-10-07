@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/TokoCrypto
 website: https://www.tokocrypto.com/
-discord: NA
+discord: building
 telegram: https://t.me/TokocryptoOfficial
 ---

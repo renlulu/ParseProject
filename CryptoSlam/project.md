@@ -6,6 +6,6 @@ categories: Tools, NFT
 status: Building
 ttwitter: https://twitter.com/cryptoslamio
 website: https://cryptoslam.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

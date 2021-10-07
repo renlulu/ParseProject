@@ -6,6 +6,6 @@ categories: App, dApp
 status: Live
 ttwitter: https://twitter.com/jody96718451?lang=en
 website: https://yodamerch.co.za/
-discord: NA
+discord: building
 telegram: https://t.me/Yodaco
 ---

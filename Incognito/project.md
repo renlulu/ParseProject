@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/incognitochain
 website: https://incognito.org/
-discord: NA
+discord: building
 telegram: https://t.me/incognitochain
 ---

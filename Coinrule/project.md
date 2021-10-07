@@ -6,6 +6,6 @@ categories: App, Tools
 status: Live
 ttwitter: @CoinRuleHQ
 website: https://coinrule.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

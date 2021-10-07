@@ -6,6 +6,6 @@ categories: Fund
 status: Live
 ttwitter: https://twitter.com/zilliqacapital
 website: https://zilliqacapital.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

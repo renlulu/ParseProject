@@ -4,8 +4,8 @@ description: A product-focused accelerator aimed at finding great companies with
 logo: yes
 categories: Education
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://tribex.co/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

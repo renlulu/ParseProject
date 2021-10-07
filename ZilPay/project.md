@@ -6,6 +6,6 @@ categories: Wallet, Web3, Defi, staking
 status: Live
 ttwitter: https://twitter.com/pay_zil
 website: https://zilpay.xyz/
-discord: NA
+discord: building
 telegram: https://t.me/zilpay
 ---

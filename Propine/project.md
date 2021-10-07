@@ -4,8 +4,8 @@ description: Solution providers for digital asset tokenisation, custody and comp
 logo: yes
 categories: OpFi, Custody
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.propine.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

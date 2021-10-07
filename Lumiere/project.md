@@ -4,8 +4,8 @@ description: A Singapore and Hong Kong based film-tokenisation platform that was
 logo: Yes
 categories: OpFi
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.lumiereproject.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: Tools
 status: Live
 ttwitter: https://twitter.com/Quantstamp
 website: https://quantstamp.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

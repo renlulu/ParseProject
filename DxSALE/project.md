@@ -6,6 +6,6 @@ categories: Tools
 status: Live
 ttwitter: https://twitter.com/dxsale
 website: https://dxsale.network/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

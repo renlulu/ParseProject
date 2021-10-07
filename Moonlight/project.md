@@ -6,6 +6,6 @@ categories: API, SDK
 status: Live
 ttwitter: https://twitter.com/moonlightdotio
 website: https://moonlight.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

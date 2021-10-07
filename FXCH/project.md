@@ -4,8 +4,8 @@ description: A forex clearing house that utilises blockchain technology to do sp
 logo: Yes
 categories: Custody
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://fxclr.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

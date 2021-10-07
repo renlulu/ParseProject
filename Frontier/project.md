@@ -6,6 +6,6 @@ categories: Staking, Wallet
 status: Live
 ttwitter: https://twitter.com/FrontierDotXYZ
 website: https://www.frontier.xyz/
-discord: NA
+discord: building
 telegram: https://t.me/FrontierDotXYZ
 ---

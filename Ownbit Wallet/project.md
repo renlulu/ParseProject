@@ -6,6 +6,6 @@ categories: Wallet
 status: Live
 ttwitter: https://twitter.com/OwnbitWallet
 website: https://ownbit.io/en/
-discord: NA
+discord: building
 telegram: https://t.me/ownbit
 ---

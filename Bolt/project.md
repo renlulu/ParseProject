@@ -6,6 +6,6 @@ categories: Wallet, dApp
 status: Live
 ttwitter: https://twitter.com/bolt_global
 website: https://bolt.global/
-discord: NA
+discord: building
 telegram: https://t.me/BoltGlobal
 ---

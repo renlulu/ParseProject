@@ -4,8 +4,8 @@ description: ZilSwap Initial Launch Offering (ZILO) is a platform where ZWAP hol
 logo: Yes
 categories: Infra
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://zilswap.io/zilo/current
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -4,8 +4,8 @@ description: SocialPay is a platform for companies to market and incentivise use
 logo: Yes
 categories: App, Dapp
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://socialpay.app
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

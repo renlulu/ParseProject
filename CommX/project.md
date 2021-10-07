@@ -4,8 +4,8 @@ description: A blockchain startup focused on tokenising physical assets for trad
 logo: Yes
 categories: OpFi
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.commx.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

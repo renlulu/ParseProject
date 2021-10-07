@@ -7,5 +7,5 @@ status: Live
 ttwitter: https://twitter.com/contact_carbon
 website: https://www.carbontoken.info/
 discord: discord.gg/9kFXUUxbwA
-telegram: NA
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: Mining
 status: Live
 ttwitter: https://twitter.com/un_mineable
 website: https://unmineable.com/coins/ZIL
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

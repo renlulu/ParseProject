@@ -6,6 +6,6 @@ categories: Education
 status: Live
 ttwitter: https://twitter.com/BlockchainIndo
 website: https://asosiasiblockchain.co.id/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: NFT, Wallet, Dapp
 status: Live
 ttwitter: https://twitter.com/SpardaWallet
 website: https://spardawallet.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

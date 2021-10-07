@@ -6,6 +6,6 @@ categories: Fund
 status: Live
 ttwitter: https://twitter.com/zilhive
 website: https://zilhive.org/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

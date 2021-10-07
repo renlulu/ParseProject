@@ -6,6 +6,6 @@ categories: Dapp, App, NFT, DEX, Metaverse
 status: Live
 ttwitter: https://twitter.com/xcademyofficial?lang=cs
 website: https://www.xcademy.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

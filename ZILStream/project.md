@@ -6,6 +6,6 @@ categories: Dapp, Tools
 status: Live
 ttwitter: https://twitter.com/zilstream
 website: https://zilstream.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

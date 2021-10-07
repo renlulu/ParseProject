@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/changelly_team
 website: https://changelly.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

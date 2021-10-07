@@ -5,7 +5,7 @@ logo: no
 categories: NFT, Dapp
 status: Live
 ttwitter: https://twitter.com/unicutes?lang=en
-website: NA
-discord: NA
-telegram: NA
+website: building
+discord: building
+telegram: building
 ---

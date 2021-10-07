@@ -6,6 +6,6 @@ categories: Gaming, Prediction, dApp
 status: Live
 ttwitter: https://twitter.com/_redchillies?lang=en
 website: https://redchillieszil.com/
-discord: NA
+discord: building
 telegram: https://t.me/redchilliesRedC
 ---

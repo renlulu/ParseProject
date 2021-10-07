@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/HuobiGlobal
 website: https://www.huobi.com/en-us/
-discord: NA
+discord: building
 telegram: https://t.me/huobiglobalofficial
 ---

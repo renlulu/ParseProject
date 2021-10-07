@@ -6,6 +6,6 @@ categories: Tools
 status: Live
 ttwitter: https://twitter.com/zilgraph
 website: https://zilgraph.io/zilswap
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

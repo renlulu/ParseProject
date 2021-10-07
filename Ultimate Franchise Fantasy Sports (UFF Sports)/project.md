@@ -6,6 +6,6 @@ categories: Gaming, Dapp
 status: Live
 ttwitter: https://twitter.com/uffsports
 website: https://uffsports.com/
-discord: NA
+discord: building
 telegram: https://t.me/joinchat/Go5RhA8PS6j5DKvzXjXGmw
 ---

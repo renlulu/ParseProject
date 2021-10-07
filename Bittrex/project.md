@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/BittrexGlobal
 website: https://global.bittrex.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -7,5 +7,5 @@ status: Live
 ttwitter: https://twitter.com/hummingbot_io
 website: https://hummingbot.io/
 discord: https://discord.hummingbot.io/
-telegram: NA
+telegram: building
 ---

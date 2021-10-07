@@ -6,6 +6,6 @@ categories: Mining, API
 status: Live
 ttwitter: https://twitter.com/miningpoolstats
 website: https://miningpoolstats.stream/zilliqa
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

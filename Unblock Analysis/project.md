@@ -4,8 +4,8 @@ description: Unblock uses real time KYC to enable easy compliance and deep insig
 logo: no
 categories: API
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.unblock-analysis.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

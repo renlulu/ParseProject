@@ -6,6 +6,6 @@ categories: Wallet, staking
 status: Live
 ttwitter: https://twitter.com/GuardaWallet
 website: https://guarda.com/
-discord: NA
+discord: building
 telegram: https://t.me/guarda_community
 ---

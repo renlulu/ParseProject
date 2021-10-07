@@ -6,6 +6,6 @@ categories: OpFi, Custody
 status: Live
 ttwitter: https://twitter.com/notabene_id
 website: https://notabene.id/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

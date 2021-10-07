@@ -4,8 +4,8 @@ description: A comprehensive database for the crypto industry, providing data in
 logo: No
 categories: Tools
 status: Live
-ttwitter: NA
+ttwitter: building
 website: 
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

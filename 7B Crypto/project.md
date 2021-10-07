@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/sevenb_roker
 website: https://sevenb.io/
-discord: NA
+discord: building
 telegram: https://t.me/sevenb_rokerchat
 ---

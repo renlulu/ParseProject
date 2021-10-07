@@ -6,6 +6,6 @@ categories: Tools, API
 status: Live
 ttwitter: 
 website: https://ashlar.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

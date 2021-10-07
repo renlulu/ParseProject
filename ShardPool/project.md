@@ -6,6 +6,6 @@ categories: Mining
 status: Live
 ttwitter: https://twitter.com/Shardpoolio
 website: https://shardpool.io/
-discord: NA
+discord: building
 telegram: https://t.me/kidkid1
 ---

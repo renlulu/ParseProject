@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/WazirxIndia
 website: https://wazirx.com/
-discord: NA
+discord: building
 telegram: https://t.me/wazirx
 ---

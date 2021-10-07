@@ -6,6 +6,6 @@ categories: Wallet, staking
 status: Live
 ttwitter: https://twitter.com/Ledger
 website: https://www.ledger.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

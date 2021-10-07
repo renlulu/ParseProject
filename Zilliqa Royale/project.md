@@ -4,8 +4,8 @@ description: Play the first blockchain powered battle royale game running on Min
 logo: 
 categories: App, gaming, NFT
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://zilliqaroyale.com/
-discord: NA
+discord: building
 telegram: https://t.me/zilliqaroyale_discussion
 ---

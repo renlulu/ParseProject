@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://www.twitter.com/indodax
 website: https://indodax.com/en/
-discord: NA
+discord: building
 telegram: https://t.me/indodax
 ---

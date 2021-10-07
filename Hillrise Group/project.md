@@ -6,6 +6,6 @@ categories: Fund
 status: Live
 ttwitter: https://twitter.com/hillrisegroup
 website: https://hillrise.group/
-discord: NA
+discord: building
 telegram: https://t.me/hillrisegroupchat
 ---

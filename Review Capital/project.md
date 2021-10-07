@@ -4,8 +4,8 @@ description: A decentralised open source project built on Zilliqa blockchain tha
 logo: Yes
 categories: Dapp
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://reviewcapital.org/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

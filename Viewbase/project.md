@@ -4,8 +4,8 @@ description: A digital assets analytics tool with data for analysing exchange wa
 logo: yes
 categories: API, Explorer
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.viewbase.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -7,5 +7,5 @@ status: Live
 ttwitter: https://twitter.com/mintable_app
 website: zilliqa.mintable.com
 discord: https://discord.com/invite/ScDMhWW
-telegram: NA
+telegram: building
 ---

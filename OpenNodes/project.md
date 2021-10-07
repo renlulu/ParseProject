@@ -4,8 +4,8 @@ description: A digital nexus for key stakeholders in Singapore to drive wider bl
 logo: yes
 categories: Education
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://opennodes.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

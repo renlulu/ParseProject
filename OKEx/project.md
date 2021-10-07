@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/OKEx
 website: https://www.okex.com/
-discord: NA
+discord: building
 telegram: https://t.me/OKExOfficial_English
 ---

@@ -6,6 +6,6 @@ categories: NFT
 status: Live
 ttwitter: https://twitter.com/messitoken
 website: https://messitokens.me/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

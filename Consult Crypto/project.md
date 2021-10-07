@@ -6,6 +6,6 @@ categories: App, dApp
 status: Live
 ttwitter: https://twitter.com/ConsultCoin
 website: https://www.consultcrypto.net/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

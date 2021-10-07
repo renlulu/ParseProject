@@ -6,6 +6,6 @@ categories: Payment
 status: Live
 ttwitter: https://twitter.com/xfers
 website: https://www.xfers.com/sg
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

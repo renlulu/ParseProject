@@ -6,6 +6,6 @@ categories: Gaming
 status: Live
 ttwitter: https://twitter.com/ZilFlip
 website: https://zilflip.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

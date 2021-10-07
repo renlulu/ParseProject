@@ -6,6 +6,6 @@ categories: API
 status: Live
 ttwitter: https://twitter.com/BlockchainETL
 website: https://www.helixtechnologies.xyz/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: NFT, Dapp
 status: Live
 ttwitter: https://twitter.com/zwall_zpaint?lang=en
 website: https://zilwall.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

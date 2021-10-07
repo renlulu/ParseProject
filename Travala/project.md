@@ -6,6 +6,6 @@ categories: App
 status: Live
 ttwitter: https://twitter.com/travalacom
 website: https://www.travala.com/payment/zilliqa-zil
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

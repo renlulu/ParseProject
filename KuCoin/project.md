@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/KuCoinCom
 website: https://www.kucoin.com/
-discord: NA
+discord: building
 telegram: https://t.me/Kucoin_Exchange
 ---

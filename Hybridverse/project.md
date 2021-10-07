@@ -4,8 +4,8 @@ description: A multi-chain, distributed and shared infrastructure composed of dA
 logo: Yes
 categories: Web3
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://hybridverse.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

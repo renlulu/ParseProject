@@ -6,6 +6,6 @@ categories: Wallet
 status: Live
 ttwitter: @ZeevesBot
 website: https://zeeves.io/
-discord: NA
+discord: building
 telegram: https://t.me/zilliqawalletbot
 ---

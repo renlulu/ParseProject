@@ -6,6 +6,6 @@ categories: Gaming
 status: Live
 ttwitter: https://twitter.com/zilchess
 website: https://www.zilchess.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

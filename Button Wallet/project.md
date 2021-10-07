@@ -6,6 +6,6 @@ categories: Wallet
 status: Live
 ttwitter: https://buttonwallet.com/#pablo
 website: https://buttonwallet.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

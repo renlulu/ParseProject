@@ -2,10 +2,10 @@
 name: ZilStars
 description: Exclusive NFT collectibles, curated and commissioned by global football titans for their beloved fans.
 logo: yes
-categories: NA
+categories: building
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://football.zilstars.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

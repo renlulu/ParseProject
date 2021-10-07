@@ -4,8 +4,8 @@ description: The most adopted Indonesian Rupiah stablecoin run on Ethereum and B
 logo: Yes
 categories: Stablecoin
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://rupiahtoken.com/
-discord: NA
+discord: building
 telegram: https://t.me/joinchat/IecbjxEy6xVf1dyZhGZxpw
 ---

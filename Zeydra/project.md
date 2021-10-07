@@ -4,8 +4,8 @@ description: A matchmaking platform using crypto interactions.
 logo: No
 categories: App, dApp
 status: Building
-ttwitter: NA
+ttwitter: building
 website: https://zeydra.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: Education, NFT
 status: Live
 ttwitter: https://twitter.com/AccessSg
 website: https://www.access.org.sg/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

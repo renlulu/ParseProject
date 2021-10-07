@@ -6,6 +6,6 @@ categories: Custody
 status: Live
 ttwitter: https://twitter.com/oncustodian
 website: https://www.oncustodian.com/
-discord: NA
+discord: building
 telegram: https://t.me/oncustodian
 ---

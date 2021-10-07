@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/BithumbOfficial
 website: https://en.bithumb.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

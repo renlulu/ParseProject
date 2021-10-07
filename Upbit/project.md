@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/upbitglobal
 website: upbit.com/home
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

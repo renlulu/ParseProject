@@ -4,8 +4,8 @@ description: A platform that offers real-time social media analytics from differ
 logo: Yes
 categories: App
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://lunarcrush.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

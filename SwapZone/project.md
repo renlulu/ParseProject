@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/swapzoneio
 website: https://swapzone.io/
-discord: NA
+discord: building
 telegram: https://t.me/swapzone
 ---

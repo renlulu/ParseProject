@@ -6,6 +6,6 @@ categories: Mining
 status: Live
 ttwitter: https://twitter.com/rustpool_sup
 website: https://zil.rustpool.xyz/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

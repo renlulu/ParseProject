@@ -6,6 +6,6 @@ categories: Staking
 status: Live
 ttwitter: https://twitter.com/everstake_pool
 website: https://everstake.one/
-discord: NA
+discord: building
 telegram: https://t.me/everstake_chat
 ---

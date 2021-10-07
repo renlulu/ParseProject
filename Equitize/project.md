@@ -4,8 +4,8 @@ description: An equity-based crowdfunding platform on Zilliqa for angel investor
 logo: No
 categories: Defi, Fund
 status: Building
-ttwitter: NA
+ttwitter: building
 website: https://capstone2021.sutd.edu.sg/projects/equitize
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

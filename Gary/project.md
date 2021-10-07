@@ -6,6 +6,6 @@ categories: Meme Token
 status: Live
 ttwitter: https://twitter.com/TheGARYToken
 website: https://blog.thegarytoken.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

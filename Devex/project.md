@@ -4,8 +4,8 @@ description: A lightweight, developer focused explorer.
 logo: Yes
 categories: Explorer, API
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://devex.zilliqa.com/?network=https%3A%2F%2Fapi.zilliqa.com
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

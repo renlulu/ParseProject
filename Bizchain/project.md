@@ -6,6 +6,6 @@ categories: Dapp
 status: Building
 ttwitter: https://twitter.com/BizchainI
 website: https://www.bizchain.io
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

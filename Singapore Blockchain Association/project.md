@@ -4,8 +4,8 @@ description: A leading trade association that seeks to empower its members to le
 logo: Yes
 categories: Education
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://singaporeblockchain.org/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

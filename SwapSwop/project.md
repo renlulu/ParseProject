@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/swapswopio
 website: https://swapswop.io/
-discord: NA
+discord: building
 telegram: https://t.me/swapswopio
 ---

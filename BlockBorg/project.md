@@ -6,6 +6,6 @@ categories: Tools, app
 status: Live
 ttwitter: https://twitter.com/BlockchainBorg
 website: https://www.blockborg.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

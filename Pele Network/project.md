@@ -6,6 +6,6 @@ categories: NFT, Metaverse, Dapp
 status: Live
 ttwitter: https://twitter.com/PELENetwork
 website: https://pele.network/
-discord: NA
+discord: building
 telegram: https://t.me/PELENetwork
 ---

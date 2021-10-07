@@ -4,8 +4,8 @@ description: A simplified, user-friendly staking portal where users can earn APY
 logo: Yes
 categories: Staking
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://stake.zilliqa.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

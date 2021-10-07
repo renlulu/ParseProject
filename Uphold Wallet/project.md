@@ -6,6 +6,6 @@ categories: Wallet, Exchange
 status: Live
 ttwitter: https://twitter.com/UpholdInc
 website: https://uphold.com/en-us
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

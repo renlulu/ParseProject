@@ -6,6 +6,6 @@ categories: SDK, Payment
 status: Live
 ttwitter: https://twitter.com/paymuggle
 website: https://mugglepay.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

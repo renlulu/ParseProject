@@ -6,6 +6,6 @@ categories: App, dApp
 status: Live
 ttwitter: https://twitter.com/packageportal/
 website: https://www.packageportal.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

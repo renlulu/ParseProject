@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/bitfinex
 website: https://www.bitfinex.com/
-discord: NA
+discord: building
 telegram: https://t.me/bitfinex
 ---

@@ -6,6 +6,6 @@ categories: Wallet
 status: Live
 ttwitter: https://twitter.com/Mathwallet
 website: https://mathwallet.org/en-us/
-discord: NA
+discord: building
 telegram: https://t.me/mathwallet
 ---

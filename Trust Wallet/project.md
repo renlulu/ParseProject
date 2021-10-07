@@ -6,6 +6,6 @@ categories: Wallet, App
 status: Live
 ttwitter: https://twitter.com/trustwalletapp
 website: https://trustwallet.com/
-discord: NA
+discord: building
 telegram: https://t.me/trust_announcements
 ---

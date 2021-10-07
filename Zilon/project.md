@@ -6,6 +6,6 @@ categories: Payment
 status: Live
 ttwitter: https://twitter.com/Zilonofficial
 website: https://www.zilon.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

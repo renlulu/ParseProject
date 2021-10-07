@@ -6,6 +6,6 @@ categories: NFT, Gaming, Dapp, Metaverse
 status: Live
 ttwitter: https://twitter.com/de_monsters
 website: https://demons.world/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

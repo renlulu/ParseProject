@@ -4,8 +4,8 @@ description: A community of blockchain enthusiasts dedicated to tackling the wor
 logo: No
 categories: Education
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.facebook.com/blockchainedindia/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

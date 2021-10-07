@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/coinhako
 website: https://www.coinhako.com/
-discord: NA
+discord: building
 telegram: https://t.me/CoinhakoOfficial
 ---

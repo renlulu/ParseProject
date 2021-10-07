@@ -6,6 +6,6 @@ categories: Stablecoin, Defi, Dapp
 status: Live
 ttwitter: https://twitter.com/MrCryptoMambo
 website: https://mambo.li/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

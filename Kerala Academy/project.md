@@ -4,8 +4,8 @@ description: An initiative under the Government of Kerala, KBA offers blockchain
 logo: Yes
 categories: Education
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://kba.ai/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

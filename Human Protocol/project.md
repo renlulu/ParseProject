@@ -6,6 +6,6 @@ categories: App, Dapp, Api
 status: Building
 ttwitter: http://twitter.com/human_protocol
 website: https://hmt.ai/
-discord: NA
+discord: building
 telegram: http://hmt.ai/telegram
 ---

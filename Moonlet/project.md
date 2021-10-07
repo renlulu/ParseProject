@@ -6,6 +6,6 @@ categories: Wallet, Staking, App, Defi
 status: Live
 ttwitter: https://twitter.com/moonlet_wallet
 website: https://moonlet.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

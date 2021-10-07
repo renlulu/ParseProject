@@ -6,6 +6,6 @@ categories: Gaming, NFT
 status: Building
 ttwitter: https://twitter.com/robounicats
 website: https://robounicats.com/
-discord: NA
+discord: building
 telegram: https://t.me/ruc_shards
 ---

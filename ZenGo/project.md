@@ -6,6 +6,6 @@ categories: Wallet
 status: Live
 ttwitter: https://twitter.com/zengo
 website: https://zengo.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

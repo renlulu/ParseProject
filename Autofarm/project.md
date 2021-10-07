@@ -6,6 +6,6 @@ categories: Defi
 status: Live
 ttwitter: https://twitter.com/autofarmnetwork
 website: https://autofarm.network/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

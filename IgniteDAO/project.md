@@ -6,6 +6,6 @@ categories: DAO
 status: Live
 ttwitter: https://twitter.com/IgniteDAO
 website: https://zillacracy.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

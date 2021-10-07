@@ -4,8 +4,8 @@ description: The first USD-pegged stablecoin that is fully collaterised by digit
 logo: Yes
 categories: Stablecoin
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://depos.io/
-discord: NA
+discord: building
 telegram: https://t.me/deposbank
 ---

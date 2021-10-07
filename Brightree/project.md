@@ -4,8 +4,8 @@ description: Used for O&G, Brightree extracts data from refueling to prevent bun
 logo: Yes
 categories: Dapp
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.brightree.com.sg/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -6,6 +6,6 @@ categories: Wallet, App
 status: Live
 ttwitter: https://twitter.com/DappPocket
 website: https://www.dapppocket.io/
-discord: NA
+discord: building
 telegram: https://t.me/DappPocket
 ---

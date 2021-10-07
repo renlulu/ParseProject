@@ -6,6 +6,6 @@ categories: Mining
 status: Live
 ttwitter: https://twitter.com/ezil_me
 website: https://ezil.me/
-discord: NA
+discord: building
 telegram: https://t.me/ezil_me
 ---

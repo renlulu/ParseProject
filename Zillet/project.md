@@ -6,6 +6,6 @@ categories: Wallet, Web3, Defi, staking
 status: Live
 ttwitter: https://twitter.com/zilletio
 website: https://zillet.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

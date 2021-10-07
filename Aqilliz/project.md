@@ -6,6 +6,6 @@ categories: Web3
 status: Live
 ttwitter: https://twitter.com/AqillizOfficial
 website: https://aqilliz.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

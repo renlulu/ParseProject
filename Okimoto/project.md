@@ -6,6 +6,6 @@ categories: NFT
 status: Live
 ttwitter: https://twitter.com/Okimoto_Dex
 website: https://okimoto.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

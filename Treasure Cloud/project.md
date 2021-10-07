@@ -6,6 +6,6 @@ categories: Custody
 status: Live
 ttwitter: https://twitter.com/treasurestorage
 website: https://treasure.cloud/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

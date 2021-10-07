@@ -6,6 +6,6 @@ categories: API, Tools
 status: Live
 ttwitter: @flipsidecrypto
 website: https://flipsidecrypto.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

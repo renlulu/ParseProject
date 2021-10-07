@@ -6,6 +6,6 @@ categories: NFT
 status: Live
 ttwitter: https://twitter.com/token_elon?lang=en
 website: https://elons.io/what-is-elons
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

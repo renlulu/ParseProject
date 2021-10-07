@@ -6,6 +6,6 @@ categories: API, SDK
 status: Live
 ttwitter: https://twitter.com/magic_labs
 website: https://magic.link/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

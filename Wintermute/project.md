@@ -6,6 +6,6 @@ categories: Custody
 status: Live
 ttwitter: https://twitter.com/wintermute_t
 website: https://www.wintermute.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

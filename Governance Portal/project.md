@@ -4,8 +4,8 @@ description: The Zilliqa Governance Portal is where all Zilliqa Improvement Prop
 logo: Yes
 categories: Governance
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://gov.zilliqa.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

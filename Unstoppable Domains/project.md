@@ -6,6 +6,6 @@ categories: Domains
 status: Live
 ttwitter: https://twitter.com/unstoppableweb
 website: https://unstoppabledomains.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

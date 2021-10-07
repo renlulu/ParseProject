@@ -4,8 +4,8 @@ description: A platform which lists the fees spent on transactions on the Zilliq
 logo: no
 categories: Tools
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://cryptofees.info/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

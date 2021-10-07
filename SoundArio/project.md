@@ -6,6 +6,6 @@ categories: dApp, App
 status: Live
 ttwitter: https://twitter.com/Soundario
 website: http://soundar.io/
-discord: NA
+discord: building
 telegram: https://t.me/soundario
 ---

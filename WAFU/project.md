@@ -5,7 +5,7 @@ logo:
 categories: NFT
 status: Building
 ttwitter: https://twitter.com/wafutoken
-website: NA
-discord: NA
-telegram: NA
+website: building
+discord: building
+telegram: building
 ---

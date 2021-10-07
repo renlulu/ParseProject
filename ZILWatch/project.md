@@ -6,6 +6,6 @@ categories: Dapp, Tools
 status: Live
 ttwitter: https://twitter.com/zilWatch_io
 website: https://zilwatch.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

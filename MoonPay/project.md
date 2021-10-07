@@ -6,6 +6,6 @@ categories: Exchange
 status: Live
 ttwitter: https://twitter.com/MoonPayHQ
 website: https://www.moonpay.com/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

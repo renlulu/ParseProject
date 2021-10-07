@@ -6,6 +6,6 @@ categories: DeFi
 status: Live
 ttwitter: https://twitter.com/zyro_finance
 website: https://zyro.finance/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

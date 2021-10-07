@@ -6,6 +6,6 @@ categories: API
 status: Live
 ttwitter: https://twitter.com/CryptoApis
 website: https://cryptoapis.io/
-discord: NA
+discord: building
 telegram: https://t.me/CryptoAPIs
 ---

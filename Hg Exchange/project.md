@@ -4,8 +4,8 @@ description: Zilliqa's smart contracts helps to power digital asset transactions
 logo: yes
 categories: OpFi
 status: Live
-ttwitter: NA
+ttwitter: building
 website: 
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -4,8 +4,8 @@ description: End-to-end marketplace solutions forr exchanges, OTC venues, broker
 logo: Yes
 categories: Custody
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://www.hydrax.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

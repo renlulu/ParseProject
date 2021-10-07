@@ -7,5 +7,5 @@ status: Live
 ttwitter: https://twitter.com/K1Pool
 website: https://k1pool.com/pool/zil
 discord: https://discord.gg/gSdJXFk
-telegram: NA
+telegram: building
 ---

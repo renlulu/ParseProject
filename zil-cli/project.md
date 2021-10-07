@@ -4,8 +4,8 @@ description: Command Line Interface for Zilliqa Blockchain.
 logo: yes
 categories: SDK, Tools
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://zilcli.app/#/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

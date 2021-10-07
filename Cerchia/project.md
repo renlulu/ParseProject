@@ -4,8 +4,8 @@ description: A platform that allows for automated parametric event risk payouts 
 logo: yes
 categories: Defi, Opfi, Prediction
 status: Building
-ttwitter: NA
+ttwitter: building
 website: http://cerchia.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

@@ -7,5 +7,5 @@ status: Live
 ttwitter: https://twitter.com/gitcoin
 website: https://gitcoin.co/
 discord: https://discord.com/invite/83BK5z55yB
-telegram: NA
+telegram: building
 ---

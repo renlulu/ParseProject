@@ -4,8 +4,8 @@ description: The premier DEX on the Zilliqa blockchain.
 logo: yes
 categories: DEX
 status: Live
-ttwitter: NA
+ttwitter: building
 website: https://zilswap.io/
-discord: NA
-telegram: NA
+discord: building
+telegram: building
 ---

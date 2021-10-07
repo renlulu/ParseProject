@@ -6,6 +6,6 @@ categories: App, dApp
 status: Building
 ttwitter: https://twitter.com/mycoralapp
 website: https://mycoralapp.com
-discord: NA
+discord: building
 telegram: https://t.me/coraltribe
 ---

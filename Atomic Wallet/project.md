@@ -6,6 +6,6 @@ categories: Wallet, staking
 status: Live
 ttwitter: https://twitter.com/atomicwallet
 website: https://atomicwallet.io/
-discord: NA
+discord: building
 telegram: https://t.me/AtomicWalletNews
 ---
