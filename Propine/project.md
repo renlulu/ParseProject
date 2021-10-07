@@ -1,11 +1,11 @@
 ---
 name: Propine
 description: Solution providers for digital asset tokenisation, custody and compliance. Members of the 2020-2021 ZILHive accelerator cohort.
-logo: yes
+logo: 
 categories: OpFi, Custody
 status: Live
-ttwitter: building
+twitter: NA
 website: https://www.propine.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

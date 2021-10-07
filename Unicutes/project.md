@@ -1,11 +1,11 @@
 ---
 name: Unicutes
 description: A verifiable random number generated digital art collection with a limited supply of 9999.
-logo: no
+logo: 
 categories: NFT, Dapp
 status: Live
-ttwitter: https://twitter.com/unicutes?lang=en
-website: building
-discord: building
-telegram: building
+twitter: https://twitter.com/unicutes?lang=en
+website: NA
+discord: NA
+telegram: NA
 ---

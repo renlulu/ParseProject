@@ -1,11 +1,11 @@
 ---
 name: PancakeSwap
 description: A  popular DeFi tool where users can trade, earn, and win crypto.
-logo: yes
+logo: 
 categories: DEX
 status: Live
-ttwitter: building
+twitter: NA
 website: https://pancakeswap.finance/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: Asosiasi Blockchain Indonesia (ABI)
 description: Zilliqa is a member of the Asosiasi Blockchain Indonesia (ABI).
-logo: Yes
+logo: 
 categories: Education
 status: Live
-ttwitter: https://twitter.com/BlockchainIndo
+twitter: https://twitter.com/BlockchainIndo
 website: https://asosiasiblockchain.co.id/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

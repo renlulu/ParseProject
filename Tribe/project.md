@@ -1,11 +1,11 @@
 ---
 name: Tribe
 description: A product-focused accelerator aimed at finding great companies with innovative blockchain use cases.
-logo: yes
+logo: 
 categories: Education
 status: Live
-ttwitter: building
+twitter: NA
 website: https://tribex.co/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

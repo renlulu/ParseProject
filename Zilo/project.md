@@ -1,11 +1,11 @@
 ---
 name: Zilo
 description: ZilSwap Initial Launch Offering (ZILO) is a platform where ZWAP holders can participate in new token launches.
-logo: Yes
+logo: 
 categories: Infra
 status: Live
-ttwitter: building
+twitter: NA
 website: https://zilswap.io/zilo/current
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,10 +1,10 @@
 ---
 name: Flat Lazy Ass Token
 description: 
-logo: Yes
+logo: 
 categories: Meme Token
 status: Live
-ttwitter: 
+twitter: 
 website: https://zilstream.com/tokens/flat
 discord: 
 telegram: https://t.me/Flattoken

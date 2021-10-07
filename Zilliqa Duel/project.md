@@ -3,8 +3,8 @@ name: Zilliqa Duel
 description: 
 logo: 
 categories: 
-status: building
-ttwitter: 
+status: NA
+twitter: 
 website: 
 discord: 
 telegram: 

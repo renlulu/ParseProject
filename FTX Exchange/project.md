@@ -1,11 +1,11 @@
 ---
 name: FTX Exchange
 description: A centralised cryptocurrency exchange specialising in derivatives and leveraged products. 
-logo: Yes
+logo: 
 categories: Exchange
 status: Live
-ttwitter: https://twitter.com/FTX_official
+twitter: https://twitter.com/FTX_official
 website: https://ftx.com/en
-discord: building
+discord: NA
 telegram: https://t.me/FTX_Official
 ---

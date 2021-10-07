@@ -1,11 +1,11 @@
 ---
 name: DxSALE
 description: A tool which helps users with no coding experience mint and launch their tokens in minutes.
-logo: Yes
+logo: 
 categories: Tools
 status: Live
-ttwitter: https://twitter.com/dxsale
+twitter: https://twitter.com/dxsale
 website: https://dxsale.network/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

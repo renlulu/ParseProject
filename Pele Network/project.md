@@ -1,11 +1,11 @@
 ---
 name: Pele Network
 description: A decentralised media ecosystem aimed at taking the power back for creators. 
-logo: yes
+logo: 
 categories: NFT, Metaverse, Dapp
 status: Live
-ttwitter: https://twitter.com/PELENetwork
+twitter: https://twitter.com/PELENetwork
 website: https://pele.network/
-discord: building
+discord: NA
 telegram: https://t.me/PELENetwork
 ---

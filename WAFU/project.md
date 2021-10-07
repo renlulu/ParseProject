@@ -4,8 +4,8 @@ description: The official account for $Wafu Token. Buy, Sell, Trade and Auction 
 logo: 
 categories: NFT
 status: Building
-ttwitter: https://twitter.com/wafutoken
-website: building
-discord: building
-telegram: building
+twitter: https://twitter.com/wafutoken
+website: NA
+discord: NA
+telegram: NA
 ---

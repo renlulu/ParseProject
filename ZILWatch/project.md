@@ -1,11 +1,11 @@
 ---
 name: ZILWatch
 description: A smart dashboard for you to track prices of ZRC-2 tokens.
-logo: yes
+logo: 
 categories: Dapp, Tools
 status: Live
-ttwitter: https://twitter.com/zilWatch_io
+twitter: https://twitter.com/zilWatch_io
 website: https://zilwatch.io/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

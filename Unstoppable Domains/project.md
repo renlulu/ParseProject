@@ -1,11 +1,11 @@
 ---
 name: Unstoppable Domains
 description: Application which a users to replace their crypto wallet addresses with readable domain names.
-logo: yes
+logo: 
 categories: Domains
 status: Live
-ttwitter: https://twitter.com/unstoppableweb
+twitter: https://twitter.com/unstoppableweb
 website: https://unstoppabledomains.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: Zilswap
 description: The premier DEX on the Zilliqa blockchain.
-logo: yes
+logo: 
 categories: DEX
 status: Live
-ttwitter: building
+twitter: NA
 website: https://zilswap.io/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: HydraX
 description: End-to-end marketplace solutions forr exchanges, OTC venues, brokers, dealers, bullion and trading companies.
-logo: Yes
+logo: 
 categories: Custody
 status: Live
-ttwitter: building
+twitter: NA
 website: https://www.hydrax.io/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

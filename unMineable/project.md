@@ -1,11 +1,11 @@
 ---
 name: unMineable
 description: unMineable provides a seamless experience for miners for non-mineable crypto coins.
-logo: yes
+logo: 
 categories: Mining
 status: Live
-ttwitter: https://twitter.com/un_mineable
+twitter: https://twitter.com/un_mineable
 website: https://unmineable.com/coins/ZIL
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

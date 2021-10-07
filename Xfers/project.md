@@ -1,11 +1,11 @@
 ---
 name: Xfers
 description: A payment solutions provider for businesses, licensed by the Monetary Authority of Singapore.
-logo: Yes
+logo: 
 categories: Payment
 status: Live
-ttwitter: https://twitter.com/xfers
+twitter: https://twitter.com/xfers
 website: https://www.xfers.com/sg
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

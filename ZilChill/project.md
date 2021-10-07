@@ -4,8 +4,8 @@ description: Decentralizing the Gaming Industry on Zilliqa
 logo: 
 categories: Gaming
 status: Live
-ttwitter: building
+twitter: NA
 website: https://zilchill.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

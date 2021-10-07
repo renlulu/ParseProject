@@ -1,11 +1,11 @@
 ---
 name: Sparda Wallet
 description: An all-in-one NFT wallet and marketplace on the Zilliqa blockchain.
-logo: Yes
+logo: 
 categories: NFT, Wallet, Dapp
 status: Live
-ttwitter: https://twitter.com/SpardaWallet
+twitter: https://twitter.com/SpardaWallet
 website: https://spardawallet.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

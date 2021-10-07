@@ -3,8 +3,8 @@ name: SeaCabbie
 description: 
 logo: 
 categories: 
-status: building
-ttwitter: 
+status: NA
+twitter: 
 website: https://seacabbie.com/
 discord: 
 telegram: 

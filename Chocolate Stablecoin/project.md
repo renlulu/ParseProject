@@ -1,10 +1,10 @@
 ---
 name: Chocolate Stablecoin
 description: 
-logo: Yes
+logo: 
 categories: Stablecoin, Defi
 status: Live
-ttwitter: 
+twitter: 
 website: https://mambo.li/stablecoins/franc/
 discord: 
 telegram: 

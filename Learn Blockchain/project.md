@@ -1,11 +1,11 @@
 ---
 name: Learn Blockchain
 description: A community run educational portal to learn about all things Zilliqa and blockchain. 
-logo: yes
+logo: 
 categories: Education
 status: Live
-ttwitter: building
+twitter: NA
 website: https://learnblockchain.org/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

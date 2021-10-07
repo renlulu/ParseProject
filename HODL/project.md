@@ -1,10 +1,10 @@
 ---
 name: HODL
 description: 
-logo: Yes
+logo: 
 categories: Meme Token
 status: Live
-ttwitter: 
+twitter: 
 website: https://zilstream.com/tokens/hodl
 discord: 
 telegram: https://t.me/thehodltoken

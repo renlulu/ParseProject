@@ -1,11 +1,11 @@
 ---
 name: SwapZone
 description: A crypto exchange aggregator that allows users to swap cryptocurrencies including Zilliqa at the best rates.
-logo: no
+logo: 
 categories: Exchange
 status: Live
-ttwitter: https://twitter.com/swapzoneio
+twitter: https://twitter.com/swapzoneio
 website: https://swapzone.io/
-discord: building
+discord: NA
 telegram: https://t.me/swapzone
 ---

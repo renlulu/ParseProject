@@ -35,21 +35,21 @@ func main() {
 	for scanner.Scan() {
 		line := scanner.Text()
 		fields := strings.Split(line, "\t")
-		name := convertNA2Building(fields[2])
-		description := convertNA2Building(fields[3])
-		logo := convertNA2Building(fields[4])
-		categories := convertNA2Building(fields[6])
-		status := convertNA2Building(fields[7])
-		twitter := convertNA2Building(fields[8])
-		website := convertNA2Building(fields[9])
-		discord := convertNA2Building(fields[10])
-		telegram := convertNA2Building(fields[11])
+		name := convertNA2NA(fields[2])
+		description := convertNA2NA(fields[3])
+		logo := ""
+		categories := convertNA2NA(fields[6])
+		status := convertNA2NA(fields[7])
+		twitter := convertNA2NA(fields[8])
+		website := convertNA2NA(fields[9])
+		discord := convertNA2NA(fields[10])
+		telegram := convertNA2NA(fields[11])
 		err := os.Mkdir(name, 0755)
 		if err != nil {
 			log.Fatal(err.Error())
 		}
 		fileName := fmt.Sprintf("%s/project.md", name)
-		text := fmt.Sprintf("%s\nname: %s\ndescription: %s\nlogo: %s\ncategories: %s\nstatus: %s\nttwitter: %s\nwebsite: %s\ndiscord: %s\ntelegram: %s\n%s", "---", name, description, logo, categories, status, twitter, website, discord, telegram, "---")
+		text := fmt.Sprintf("%s\nname: %s\ndescription: %s\nlogo: %s\ncategories: %s\nstatus: %s\ntwitter: %s\nwebsite: %s\ndiscord: %s\ntelegram: %s\n%s", "---", name, description, logo, categories, status, twitter, website, discord, telegram, "---")
 		appendFile(fileName, text)
 	}
 
@@ -71,9 +71,9 @@ func appendFile(filename string, text string) {
 	}
 }
 
-func convertNA2Building(input string) string {
+func convertNA2NA(input string) string {
 	if input == "NA" {
-		return "building"
+		return "NA"
 	}
 	return input
 }

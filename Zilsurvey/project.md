@@ -2,10 +2,10 @@
 name: Zilsurvey
 description: Help researchers by sharing your opinion. Getting solid feedback is critical for building a good product, help developers by filling in surveys.
 logo: 
-categories: building
+categories: NA
 status: Live
-ttwitter: building
+twitter: NA
 website: https://www.zilsurvey.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

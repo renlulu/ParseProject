@@ -1,11 +1,11 @@
 ---
 name: Ownbit Wallet
 description: A multi-sig and cold wallet that supports ZIL.
-logo: no
+logo: 
 categories: Wallet
 status: Live
-ttwitter: https://twitter.com/OwnbitWallet
+twitter: https://twitter.com/OwnbitWallet
 website: https://ownbit.io/en/
-discord: building
+discord: NA
 telegram: https://t.me/ownbit
 ---

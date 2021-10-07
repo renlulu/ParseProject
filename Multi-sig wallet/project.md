@@ -1,11 +1,11 @@
 ---
 name: Multi-sig wallet
 description: Multisig wallet backed by a Scilla contract
-logo: yes
+logo: 
 categories: wallet
 status: Live
-ttwitter: building
+twitter: NA
 website: https://legacy-multisig.zilliqa.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

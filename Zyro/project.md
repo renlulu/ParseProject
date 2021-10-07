@@ -1,11 +1,11 @@
 ---
 name: Zyro
 description: Protocol for automated liquidity built on Zilliqa.
-logo: yes
+logo: 
 categories: DeFi
 status: Live
-ttwitter: https://twitter.com/zyro_finance
+twitter: https://twitter.com/zyro_finance
 website: https://zyro.finance/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

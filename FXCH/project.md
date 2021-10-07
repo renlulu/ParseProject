@@ -1,11 +1,11 @@
 ---
 name: FXCH
 description: A forex clearing house that utilises blockchain technology to do spot FX clearing.
-logo: Yes
+logo: 
 categories: Custody
 status: Live
-ttwitter: building
+twitter: NA
 website: https://fxclr.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: DV Trading
 description: 
-logo: no
+logo: 
 categories: Tools
 status: Live
-ttwitter: 
+twitter: 
 website: https://www.dvtrading.co/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -4,8 +4,8 @@ description: Community members want to visualize the growth of Zilliqa. DApps ne
 logo: 
 categories: Tools, app
 status: Live
-ttwitter: https://twitter.com/BlockchainBorg
+twitter: https://twitter.com/BlockchainBorg
 website: https://www.blockborg.io/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

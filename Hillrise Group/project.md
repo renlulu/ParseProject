@@ -1,11 +1,11 @@
 ---
 name: Hillrise Group
 description: An early-stage venture capital fund supporting web3 start ups.
-logo: no
+logo: 
 categories: Fund
 status: Live
-ttwitter: https://twitter.com/hillrisegroup
+twitter: https://twitter.com/hillrisegroup
 website: https://hillrise.group/
-discord: building
+discord: NA
 telegram: https://t.me/hillrisegroupchat
 ---

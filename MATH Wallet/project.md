@@ -1,11 +1,11 @@
 ---
 name: MATH Wallet
 description: A multi-platform cross-chain wallet that supports over 30+ public chain ecosystems.
-logo: yes
+logo: 
 categories: Wallet
 status: Live
-ttwitter: https://twitter.com/Mathwallet
+twitter: https://twitter.com/Mathwallet
 website: https://mathwallet.org/en-us/
-discord: building
+discord: NA
 telegram: https://t.me/mathwallet
 ---

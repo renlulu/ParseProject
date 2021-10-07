@@ -1,11 +1,11 @@
 ---
 name: Coinrule
 description: A smart assistant for crypto currency trading, allowing users to take full control of their trading.
-logo: No
+logo: 
 categories: App, Tools
 status: Live
-ttwitter: @CoinRuleHQ
+twitter: @CoinRuleHQ
 website: https://coinrule.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

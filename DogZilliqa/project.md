@@ -1,10 +1,10 @@
 ---
 name: DogZilliqa
 description: 
-logo: Yes
+logo: 
 categories: Meme Token
 status: Live
-ttwitter: 
+twitter: 
 website: https://godzilliqadefi.medium.com/dogzilliqa-token-9141f33beba5
 discord: 
 telegram: 

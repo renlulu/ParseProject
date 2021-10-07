@@ -1,11 +1,11 @@
 ---
 name: Atomic Wallet
 description: A secure cryptocurrency wallet that allows users to buy and exchange crypto for USD with credit cards in seconds.
-logo: Yes
+logo: 
 categories: Wallet, staking
 status: Live
-ttwitter: https://twitter.com/atomicwallet
+twitter: https://twitter.com/atomicwallet
 website: https://atomicwallet.io/
-discord: building
+discord: NA
 telegram: https://t.me/AtomicWalletNews
 ---

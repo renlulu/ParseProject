@@ -1,11 +1,11 @@
 ---
 name: Indodax
 description: Indonesia's largest crypto asset marketplace.
-logo: Yes
+logo: 
 categories: Exchange
 status: Live
-ttwitter: https://www.twitter.com/indodax
+twitter: https://www.twitter.com/indodax
 website: https://indodax.com/en/
-discord: building
+discord: NA
 telegram: https://t.me/indodax
 ---

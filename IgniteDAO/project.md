@@ -1,11 +1,11 @@
 ---
 name: IgniteDAO
 description: A community-run autonomous organisation building products and applications on Zilliqa.
-logo: Yes
+logo: 
 categories: DAO
 status: Live
-ttwitter: https://twitter.com/IgniteDAO
+twitter: https://twitter.com/IgniteDAO
 website: https://zillacracy.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

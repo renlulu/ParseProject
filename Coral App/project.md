@@ -1,11 +1,11 @@
 ---
 name: Coral App
 description: A next generation fitness and wellness app built on Zilliqa.
-logo: Yes
+logo: 
 categories: App, dApp
 status: Building
-ttwitter: https://twitter.com/mycoralapp
+twitter: https://twitter.com/mycoralapp
 website: https://mycoralapp.com
-discord: building
+discord: NA
 telegram: https://t.me/coraltribe
 ---

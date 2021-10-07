@@ -4,8 +4,8 @@ description: LearnScilla is a website dedicated to teaching developers the basic
 logo: 
 categories: Education
 status: Live
-ttwitter: building
+twitter: NA
 website: https://learnscilla.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

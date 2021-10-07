@@ -4,8 +4,8 @@ description: Travala is a travel booking website that accepts payment in various
 logo: 
 categories: App
 status: Live
-ttwitter: https://twitter.com/travalacom
+twitter: https://twitter.com/travalacom
 website: https://www.travala.com/payment/zilliqa-zil
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

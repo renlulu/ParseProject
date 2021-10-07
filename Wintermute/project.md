@@ -1,11 +1,11 @@
 ---
 name: Wintermute
 description: An expert in market making, dedicated to helping digital asset exchanges and blockchain project founders build the future of finance.
-logo: No
+logo: 
 categories: Custody
 status: Live
-ttwitter: https://twitter.com/wintermute_t
+twitter: https://twitter.com/wintermute_t
 website: https://www.wintermute.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: DefiLlama
 description: DefiLlama integrated Zilswap Defi Dashboard
-logo: No
+logo: 
 categories: Tools, App
 status: Live
-ttwitter: https://twitter.com/DefiLlama
+twitter: https://twitter.com/DefiLlama
 website: https://defillama.com/home
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

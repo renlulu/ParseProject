@@ -1,11 +1,11 @@
 ---
 name: Zeeves
 description: Zeeves is Zilliqa's peer-to-peer reward and engagement bot made for users on Telegram.
-logo: Yes
+logo: 
 categories: Wallet
 status: Live
-ttwitter: @ZeevesBot
+twitter: @ZeevesBot
 website: https://zeeves.io/
-discord: building
+discord: NA
 telegram: https://t.me/zilliqawalletbot
 ---

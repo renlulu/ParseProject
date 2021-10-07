@@ -4,8 +4,8 @@ description: A developer tool that enables setup of an ETL pipeline in Google Cl
 logo: 
 categories: API
 status: Live
-ttwitter: https://twitter.com/BlockchainETL
+twitter: https://twitter.com/BlockchainETL
 website: https://www.helixtechnologies.xyz/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

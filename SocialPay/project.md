@@ -1,11 +1,11 @@
 ---
 name: SocialPay
 description: SocialPay is a platform for companies to market and incentivise users for promoting their campaigns
-logo: Yes
+logo: 
 categories: App, Dapp
 status: Live
-ttwitter: building
+twitter: NA
 website: https://socialpay.app
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

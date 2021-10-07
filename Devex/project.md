@@ -1,11 +1,11 @@
 ---
 name: Devex
 description: A lightweight, developer focused explorer.
-logo: Yes
+logo: 
 categories: Explorer, API
 status: Live
-ttwitter: building
+twitter: NA
 website: https://devex.zilliqa.com/?network=https%3A%2F%2Fapi.zilliqa.com
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

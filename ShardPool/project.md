@@ -1,11 +1,11 @@
 ---
 name: ShardPool
 description: Shardpool built a Zilliqa mining pool with dual mining features and staking services
-logo: Yes
+logo: 
 categories: Mining
 status: Live
-ttwitter: https://twitter.com/Shardpoolio
+twitter: https://twitter.com/Shardpoolio
 website: https://shardpool.io/
-discord: building
+discord: NA
 telegram: https://t.me/kidkid1
 ---

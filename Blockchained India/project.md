@@ -1,11 +1,11 @@
 ---
 name: Blockchained India
 description: A community of blockchain enthusiasts dedicated to tackling the world's problems through DLT.
-logo: No
+logo: 
 categories: Education
 status: Live
-ttwitter: building
+twitter: NA
 website: https://www.facebook.com/blockchainedindia/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

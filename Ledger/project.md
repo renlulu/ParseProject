@@ -1,11 +1,11 @@
 ---
 name: Ledger
 description: A hardware crypto wallet that supports the storing of ZIL.
-logo: yes
+logo: 
 categories: Wallet, staking
 status: Live
-ttwitter: https://twitter.com/Ledger
+twitter: https://twitter.com/Ledger
 website: https://www.ledger.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

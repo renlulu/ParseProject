@@ -1,11 +1,11 @@
 ---
 name: Genesis
 description: 
-logo: No
+logo: 
 categories: Tools
 status: Live
-ttwitter: building
+twitter: NA
 website: https://genesis.vision/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

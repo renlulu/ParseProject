@@ -1,11 +1,11 @@
 ---
 name: Moonlet
 description: A non-custodial crypto wallet that allows users to manage, stake and spend crypto assets.
-logo: yes
+logo: 
 categories: Wallet, Staking, App, Defi
 status: Live
-ttwitter: https://twitter.com/moonlet_wallet
+twitter: https://twitter.com/moonlet_wallet
 website: https://moonlet.io/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

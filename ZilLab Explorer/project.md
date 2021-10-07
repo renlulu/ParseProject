@@ -4,8 +4,8 @@ description: ZilLab Explorer is a Blockchain Explorer and Analytics Platform for
 logo: 
 categories: Explorer
 status: Live
-ttwitter: building
+twitter: NA
 website: https://zillab.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: Blockspot
 description: A blockchain data platform that provides insights on different crypto assets.
-logo: No
+logo: 
 categories: Tools
 status: Live
-ttwitter: https://twitter.com/blockspot_io
+twitter: https://twitter.com/blockspot_io
 website: https://blockspot.io/
-discord: building
+discord: NA
 telegram: https://t.me/blockspot_ann
 ---

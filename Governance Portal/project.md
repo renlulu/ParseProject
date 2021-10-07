@@ -1,11 +1,11 @@
 ---
 name: Governance Portal
 description: The Zilliqa Governance Portal is where all Zilliqa Improvement Proposals (ZIPs) go for voting by the community of gZIL token holders. Operated by Zilliqa.
-logo: Yes
+logo: 
 categories: Governance
 status: Live
-ttwitter: building
+twitter: NA
 website: https://gov.zilliqa.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

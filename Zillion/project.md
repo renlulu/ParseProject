@@ -1,11 +1,11 @@
 ---
 name: Zillion
 description: A simplified, user-friendly staking portal where users can earn APY for staking their ZIL via various supporting seed nodes.
-logo: Yes
+logo: 
 categories: Staking
 status: Live
-ttwitter: building
+twitter: NA
 website: https://stake.zilliqa.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

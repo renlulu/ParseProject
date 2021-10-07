@@ -1,11 +1,11 @@
 ---
 name: Upbit
 description: A South Korean cryptocurrency exchange that allows for trading of various altcoins and Bitcoin.
-logo: yes
+logo: 
 categories: Exchange
 status: Live
-ttwitter: https://twitter.com/upbitglobal
+twitter: https://twitter.com/upbitglobal
 website: upbit.com/home
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -4,8 +4,8 @@ description: Consult Crypto is a one-stop service that provides Blockchain and C
 logo: 
 categories: App, dApp
 status: Live
-ttwitter: https://twitter.com/ConsultCoin
+twitter: https://twitter.com/ConsultCoin
 website: https://www.consultcrypto.net/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

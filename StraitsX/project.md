@@ -1,11 +1,11 @@
 ---
 name: StraitsX
 description: The payment infrastructure provider for Digital Assets like XSGD.
-logo: no
+logo: 
 categories: Payment, OpFi
 status: Live
-ttwitter: building
+twitter: NA
 website: https://www.xfers.com/sg/straitsx
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: Huobi
 description: A platform which offers safe and convenient crypto trading services.
-logo: Yes
+logo: 
 categories: Exchange
 status: Live
-ttwitter: https://twitter.com/HuobiGlobal
+twitter: https://twitter.com/HuobiGlobal
 website: https://www.huobi.com/en-us/
-discord: building
+discord: NA
 telegram: https://t.me/huobiglobalofficial
 ---

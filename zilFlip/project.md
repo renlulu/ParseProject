@@ -1,11 +1,11 @@
 ---
 name: zilFlip
 description: Fantasy themed dividend games running on the Zilliqa blockchain.
-logo: Yes
+logo: 
 categories: Gaming
 status: Live
-ttwitter: https://twitter.com/ZilFlip
+twitter: https://twitter.com/ZilFlip
 website: https://zilflip.com/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

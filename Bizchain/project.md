@@ -1,11 +1,11 @@
 ---
 name: Bizchain
 description: A blockchain-based customer relationship management (CRM) platform which streamlines workflows such as managing leads and tracking of sales pipelines.
-logo: No
+logo: 
 categories: Dapp
 status: Building
-ttwitter: https://twitter.com/BizchainI
+twitter: https://twitter.com/BizchainI
 website: https://www.bizchain.io
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

@@ -1,11 +1,11 @@
 ---
 name: Messari
 description: A comprehensive database for the crypto industry, providing data insights and research.
-logo: No
+logo: 
 categories: Tools
 status: Live
-ttwitter: building
+twitter: NA
 website: 
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

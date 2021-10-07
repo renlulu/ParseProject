@@ -1,11 +1,11 @@
 ---
 name: Infinito Wallet
 description: The easiest and safest way to buy, invest, trade, store and earn crypto.
-logo: Yes
+logo: 
 categories: Wallet
 status: Live
-ttwitter: https://twitter.com/Infinito_Ltd
+twitter: https://twitter.com/Infinito_Ltd
 website: https://www.infinitowallet.io/
-discord: building
+discord: NA
 telegram: https://t.me/infinitowallet
 ---

@@ -1,11 +1,11 @@
 ---
 name: Rustpool
 description: An official Zilliqa mining pool that allows for merge mining.
-logo: Yes
+logo: 
 categories: Mining
 status: Live
-ttwitter: https://twitter.com/rustpool_sup
+twitter: https://twitter.com/rustpool_sup
 website: https://zil.rustpool.xyz/
-discord: building
-telegram: building
+discord: NA
+telegram: NA
 ---

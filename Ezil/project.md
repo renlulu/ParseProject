@@ -1,11 +1,11 @@
 ---
 name: Ezil
 description: The fast growing US-based cryptocurrency mining pool. Ezil allows users to mine both Zilliqa and Ethereum
-logo: Yes
+logo: 
 categories: Mining
 status: Live
-ttwitter: https://twitter.com/ezil_me
+twitter: https://twitter.com/ezil_me
 website: https://ezil.me/
-discord: building
+discord: NA
 telegram: https://t.me/ezil_me
 ---
