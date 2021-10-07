@@ -1,5 +1,6 @@
 ---
-name: DefiLlamadescription: DefiLlama integrated Zilswap Defi Dashboard
+name: DefiLlama
+description: DefiLlama integrated Zilswap Defi Dashboard
 logo: No
 categories: Tools, App
 status: Live

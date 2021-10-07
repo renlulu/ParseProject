@@ -1,5 +1,6 @@
 ---
-name: Ashlardescription: Builders of Viewblock, which powers Zilliqa's blockchain explorer. 
+name: Ashlar
+description: Builders of Viewblock, which powers Zilliqa's blockchain explorer. 
 logo: No
 categories: Tools, API
 status: Live

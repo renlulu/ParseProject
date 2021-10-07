@@ -1,5 +1,6 @@
 ---
-name: DragonZILdescription: A game that allows you to buy digital collectible "dragons" with ZIL, which mate, fight and mutate.
+name: DragonZIL
+description: A game that allows you to buy digital collectible "dragons" with ZIL, which mate, fight and mutate.
 logo: 
 categories: Gaming, dApp
 status: Live

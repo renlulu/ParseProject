@@ -1,5 +1,6 @@
 ---
-name: EQUALdescription: Equal Wallet is an ERC20 wallet that unlocks the decentralized web through the use of their Ethereum dApp browser
+name: EQUAL
+description: Equal Wallet is an ERC20 wallet that unlocks the decentralized web through the use of their Ethereum dApp browser
 logo: 
 categories: 
 status: NA

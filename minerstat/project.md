@@ -1,5 +1,6 @@
 ---
-name: minerstatdescription: Shows estimated statistics and earnings on mining for different cryptocurrencies.
+name: minerstat
+description: Shows estimated statistics and earnings on mining for different cryptocurrencies.
 logo: No
 categories: Mining
 status: Live

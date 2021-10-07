@@ -1,5 +1,6 @@
 ---
-name: PolyNetworkdescription: Creators of the middleware used to bridge Zilliqa to other blockchains such as Ethereum and NEO.
+name: PolyNetwork
+description: Creators of the middleware used to bridge Zilliqa to other blockchains such as Ethereum and NEO.
 logo: yes
 categories: Dapp
 status: Building

@@ -1,5 +1,6 @@
 ---
-name: Singapore Blockchain Associationdescription: A leading trade association that seeks to empower its members to leverage blockchain and scalable technologies for growth.
+name: Singapore Blockchain Association
+description: A leading trade association that seeks to empower its members to leverage blockchain and scalable technologies for growth.
 logo: Yes
 categories: Education
 status: Live

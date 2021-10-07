@@ -1,5 +1,6 @@
 ---
-name: Button Walletdescription: A multi virtual currency wallet that operates via Telegram messenger.
+name: Button Wallet
+description: A multi virtual currency wallet that operates via Telegram messenger.
 logo: yes
 categories: Wallet
 status: Live

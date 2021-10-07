@@ -1,5 +1,6 @@
 ---
-name: unMineabledescription: unMineable provides a seamless experience for miners for non-mineable crypto coins.
+name: unMineable
+description: unMineable provides a seamless experience for miners for non-mineable crypto coins.
 logo: yes
 categories: Mining
 status: Live

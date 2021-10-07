@@ -1,5 +1,6 @@
 ---
-name: Treasure Clouddescription: A cloud storage provider offering privacy and security-based solutions. 
+name: Treasure Cloud
+description: A cloud storage provider offering privacy and security-based solutions. 
 logo: Yes
 categories: Custody
 status: Live

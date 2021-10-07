@@ -1,5 +1,6 @@
 ---
-name: Boost ZILdescription: Create a production ready app using typescript sdk to interact with zilliqa contracts
+name: Boost ZIL
+description: Create a production ready app using typescript sdk to interact with zilliqa contracts
 logo: 
 categories: Tool
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: Ownbit Walletdescription: A multi-sig and cold wallet that supports ZIL.
+name: Ownbit Wallet
+description: A multi-sig and cold wallet that supports ZIL.
 logo: no
 categories: Wallet
 status: Live

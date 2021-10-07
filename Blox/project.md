@@ -1,5 +1,6 @@
 ---
-name: Bloxdescription: Next-gen bridge between blockchain and gaming
+name: Blox
+description: Next-gen bridge between blockchain and gaming
 logo: 
 categories: SDK, NFT, gaming
 status: Live

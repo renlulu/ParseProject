@@ -1,5 +1,6 @@
 ---
-name: Garydescription: A ZRC-2 community token that gives to charities and runs weekly lotteries for its holders.
+name: Gary
+description: A ZRC-2 community token that gives to charities and runs weekly lotteries for its holders.
 logo: no
 categories: Meme Token
 status: Live

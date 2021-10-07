@@ -1,5 +1,6 @@
 ---
-name: Unstoppable Domainsdescription: Application which a users to replace their crypto wallet addresses with readable domain names.
+name: Unstoppable Domains
+description: Application which a users to replace their crypto wallet addresses with readable domain names.
 logo: yes
 categories: Domains
 status: Live

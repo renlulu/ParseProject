@@ -1,5 +1,6 @@
 ---
-name: ZilHivedescription: ZILHive is Zilliqa's ecosystem growth arm committed in supporting the growth of all projects built on Zilliqa.
+name: ZilHive
+description: ZILHive is Zilliqa's ecosystem growth arm committed in supporting the growth of all projects built on Zilliqa.
 logo: Yes
 categories: Fund
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: Frontierdescription: A chain-agnostic DeFi aggregation layer that integrated Zilliqa into its wallet.
+name: Frontier
+description: A chain-agnostic DeFi aggregation layer that integrated Zilliqa into its wallet.
 logo: Yes
 categories: Staking, Wallet
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: SwapZonedescription: A crypto exchange aggregator that allows users to swap cryptocurrencies including Zilliqa at the best rates.
+name: SwapZone
+description: A crypto exchange aggregator that allows users to swap cryptocurrencies including Zilliqa at the best rates.
 logo: no
 categories: Exchange
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: DV Tradingdescription: 
+name: DV Trading
+description: 
 logo: no
 categories: Tools
 status: Live

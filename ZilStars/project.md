@@ -1,5 +1,6 @@
 ---
-name: ZilStarsdescription: Exclusive NFT collectibles, curated and commissioned by global football titans for their beloved fans.
+name: ZilStars
+description: Exclusive NFT collectibles, curated and commissioned by global football titans for their beloved fans.
 logo: yes
 categories: NA
 status: Live

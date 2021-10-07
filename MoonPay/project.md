@@ -1,5 +1,6 @@
 ---
-name: MoonPaydescription: A secure and fast way to buy ZIL.
+name: MoonPay
+description: A secure and fast way to buy ZIL.
 logo: Yes
 categories: Exchange
 status: Live

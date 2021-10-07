@@ -1,5 +1,6 @@
 ---
-name: Changellydescription: Fast and secure way to exchange and purchase 150+ cryptocurrencies.
+name: Changelly
+description: Fast and secure way to exchange and purchase 150+ cryptocurrencies.
 logo: yes
 categories: Exchange
 status: Live

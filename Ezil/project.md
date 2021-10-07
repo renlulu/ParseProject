@@ -1,5 +1,6 @@
 ---
-name: Ezildescription: The fast growing US-based cryptocurrency mining pool. Ezil allows users to mine both Zilliqa and Ethereum
+name: Ezil
+description: The fast growing US-based cryptocurrency mining pool. Ezil allows users to mine both Zilliqa and Ethereum
 logo: Yes
 categories: Mining
 status: Live

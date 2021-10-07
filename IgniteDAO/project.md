@@ -1,5 +1,6 @@
 ---
-name: IgniteDAOdescription: A community-run autonomous organisation building products and applications on Zilliqa.
+name: IgniteDAO
+description: A community-run autonomous organisation building products and applications on Zilliqa.
 logo: Yes
 categories: DAO
 status: Live

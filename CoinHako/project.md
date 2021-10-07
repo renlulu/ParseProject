@@ -1,5 +1,6 @@
 ---
-name: CoinHakodescription: The easiest platform to buy Bitcoin and digital assets in Singapore and Asia.
+name: CoinHako
+description: The easiest platform to buy Bitcoin and digital assets in Singapore and Asia.
 logo: yes
 categories: Exchange
 status: Live

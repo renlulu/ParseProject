@@ -1,5 +1,6 @@
 ---
-name: OKExdescription: A secure crypto exchange that makes it easy to buy, sell and trade cryptocurrencies.
+name: OKEx
+description: A secure crypto exchange that makes it easy to buy, sell and trade cryptocurrencies.
 logo: yes
 categories: Exchange
 status: Live

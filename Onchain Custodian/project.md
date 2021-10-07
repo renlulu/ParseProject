@@ -1,5 +1,6 @@
 ---
-name: Onchain Custodiandescription: Custody and open finance services for institutional clients and accredited investors.
+name: Onchain Custodian
+description: Custody and open finance services for institutional clients and accredited investors.
 logo: yes
 categories: Custody
 status: Live

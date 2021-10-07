@@ -1,5 +1,6 @@
 ---
-name: ZenGodescription: A crypto wallet that allows its users to send crypto freely with no maximum or minimum amounts and no extra fees. ZenGo is a keyless crypto wallet, using facial biometrics to secure the wallet.
+name: ZenGo
+description: A crypto wallet that allows its users to send crypto freely with no maximum or minimum amounts and no extra fees. ZenGo is a keyless crypto wallet, using facial biometrics to secure the wallet.
 logo: yes
 categories: Wallet
 status: Live

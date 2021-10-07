@@ -1,5 +1,6 @@
 ---
-name: Incognitodescription: A platform which allows its users to purchase and send cryptocurrencies anonymously.
+name: Incognito
+description: A platform which allows its users to purchase and send cryptocurrencies anonymously.
 logo: Yes
 categories: Exchange
 status: Live

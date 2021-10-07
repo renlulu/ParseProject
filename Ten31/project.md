@@ -1,5 +1,6 @@
 ---
-name: Ten31description: Connecting the dots between DeFi and banking.
+name: Ten31
+description: Connecting the dots between DeFi and banking.
 logo: 
 categories: Defi
 status: Live

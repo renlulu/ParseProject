@@ -1,5 +1,6 @@
 ---
-name: Binancedescription: The world's leading cryptocurrency exchange.
+name: Binance
+description: The world's leading cryptocurrency exchange.
 logo: yes
 categories: Exchange
 status: Live

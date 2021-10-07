@@ -1,5 +1,6 @@
 ---
-name: CCTipdescription: A crypto tipping bot currently supporting 5 platforms: Twitter, WeChat, Telegram, Reddit and Discord.
+name: CCTip
+description: A crypto tipping bot currently supporting 5 platforms: Twitter, WeChat, Telegram, Reddit and Discord.
 logo: yes
 categories: App
 status: Live

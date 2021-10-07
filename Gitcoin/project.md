@@ -1,5 +1,6 @@
 ---
-name: Gitcoindescription: A platform inviting developers to work on open-source dApps, rewarding them for work, helping them to earn, learn and network.
+name: Gitcoin
+description: A platform inviting developers to work on open-source dApps, rewarding them for work, helping them to earn, learn and network.
 logo: yes
 categories: Tools
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: OpenNodesdescription: A digital nexus for key stakeholders in Singapore to drive wider blockchain adoption and foster innovation. 
+name: OpenNodes
+description: A digital nexus for key stakeholders in Singapore to drive wider blockchain adoption and foster innovation. 
 logo: yes
 categories: Education
 status: Live

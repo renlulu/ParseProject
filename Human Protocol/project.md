@@ -1,5 +1,6 @@
 ---
-name: Human Protocoldescription: Human Protocol is integrating Zilliqa into its protocol which aims to reshape the way humans and machines collaborate
+name: Human Protocol
+description: Human Protocol is integrating Zilliqa into its protocol which aims to reshape the way humans and machines collaborate
 logo: Yes
 categories: App, Dapp, Api
 status: Building

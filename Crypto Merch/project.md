@@ -1,5 +1,6 @@
 ---
-name: Crypto Merchdescription: A crypto-focused merchandise e-store that also carries a huge collection of Zilliqa's latest branded merch.
+name: Crypto Merch
+description: A crypto-focused merchandise e-store that also carries a huge collection of Zilliqa's latest branded merch.
 logo: Yes
 categories: NA
 status: Live

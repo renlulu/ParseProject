@@ -49,7 +49,7 @@ func main() {
 			log.Fatal(err.Error())
 		}
 		fileName := fmt.Sprintf("%s/project.md", name)
-		text := fmt.Sprintf("%s\nname: %sdescription: %s\nlogo: %s\ncategories: %s\nstatus: %s\nttwitter: %s\nwebsite: %s\ndiscord: %s\ntelegram: %s\n%s", "---", name, description, logo, categories, status, twitter, website, discrod, telegram, "---")
+		text := fmt.Sprintf("%s\nname: %s\ndescription: %s\nlogo: %s\ncategories: %s\nstatus: %s\nttwitter: %s\nwebsite: %s\ndiscord: %s\ntelegram: %s\n%s", "---", name, description, logo, categories, status, twitter, website, discrod, telegram, "---")
 		appendFile(fileName, text)
 	}
 

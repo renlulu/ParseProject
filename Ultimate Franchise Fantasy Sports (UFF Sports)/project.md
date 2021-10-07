@@ -1,5 +1,6 @@
 ---
-name: Ultimate Franchise Fantasy Sports (UFF Sports)description: The world’s first fantasy sports ecosystem offering ownership of franchises and players as digital NFTs on the Zilliqa blockchain.
+name: Ultimate Franchise Fantasy Sports (UFF Sports)
+description: The world’s first fantasy sports ecosystem offering ownership of franchises and players as digital NFTs on the Zilliqa blockchain.
 logo: yes
 categories: Gaming, Dapp
 status: Live

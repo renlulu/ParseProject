@@ -1,5 +1,6 @@
 ---
-name: TokoCryptodescription: An Indonesian crypto exchange for learning, buying, selling and investing in crypto safely.
+name: TokoCrypto
+description: An Indonesian crypto exchange for learning, buying, selling and investing in crypto safely.
 logo: yes
 categories: Exchange
 status: Live

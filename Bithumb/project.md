@@ -1,5 +1,6 @@
 ---
-name: Bithumbdescription: A Korean digital asset trading platform for buying, selling, exchanging and trading cryptocurrency.
+name: Bithumb
+description: A Korean digital asset trading platform for buying, selling, exchanging and trading cryptocurrency.
 logo: yes
 categories: Exchange
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: Crypto Feesdescription: A platform which lists the fees spent on transactions on the Zilliqa blockchain.
+name: Crypto Fees
+description: A platform which lists the fees spent on transactions on the Zilliqa blockchain.
 logo: no
 categories: Tools
 status: Live

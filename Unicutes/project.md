@@ -1,5 +1,6 @@
 ---
-name: Unicutesdescription: A verifiable random number generated digital art collection with a limited supply of 9999.
+name: Unicutes
+description: A verifiable random number generated digital art collection with a limited supply of 9999.
 logo: no
 categories: NFT, Dapp
 status: Live

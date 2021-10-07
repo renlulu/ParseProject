@@ -1,5 +1,6 @@
 ---
-name: Zilondescription: A payment service that allows merchants and users to accept ZIL as a payment.
+name: Zilon
+description: A payment service that allows merchants and users to accept ZIL as a payment.
 logo: No
 categories: Payment
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: MATH Walletdescription: A multi-platform cross-chain wallet that supports over 30+ public chain ecosystems.
+name: MATH Wallet
+description: A multi-platform cross-chain wallet that supports over 30+ public chain ecosystems.
 logo: yes
 categories: Wallet
 status: Live

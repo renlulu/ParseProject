@@ -1,5 +1,6 @@
 ---
-name: Okimotodescription: Okimoto the most advanced decentralised non-fungible token exchange on the Zilliqa blockchain.
+name: Okimoto
+description: Okimoto the most advanced decentralised non-fungible token exchange on the Zilliqa blockchain.
 logo: 
 categories: NFT
 status: Live

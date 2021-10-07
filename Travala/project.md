@@ -1,5 +1,6 @@
 ---
-name: Travaladescription: Travala is a travel booking website that accepts payment in various cryptocurrencies, including Zilliqa.
+name: Travala
+description: Travala is a travel booking website that accepts payment in various cryptocurrencies, including Zilliqa.
 logo: 
 categories: App
 status: Live

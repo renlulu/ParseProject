@@ -1,5 +1,6 @@
 ---
-name: Dapp Reviewdescription: Dapp review is a leading dApp analytics platform
+name: Dapp Review
+description: Dapp review is a leading dApp analytics platform
 logo: no
 categories: Tools
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: Yodadescription: Decentralizing E-commerce. The store with all of your favourite ZRC-2 token branded merch.
+name: Yoda
+description: Decentralizing E-commerce. The store with all of your favourite ZRC-2 token branded merch.
 logo: 
 categories: App, dApp
 status: Live

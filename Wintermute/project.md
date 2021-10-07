@@ -1,5 +1,6 @@
 ---
-name: Wintermutedescription: An expert in market making, dedicated to helping digital asset exchanges and blockchain project founders build the future of finance.
+name: Wintermute
+description: An expert in market making, dedicated to helping digital asset exchanges and blockchain project founders build the future of finance.
 logo: No
 categories: Custody
 status: Live

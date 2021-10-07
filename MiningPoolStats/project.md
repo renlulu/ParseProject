@@ -1,5 +1,6 @@
 ---
-name: MiningPoolStatsdescription: A dapp providing a comprehensive list of known PoW mining pools with realtime pool hashrate distribution.
+name: MiningPoolStats
+description: A dapp providing a comprehensive list of known PoW mining pools with realtime pool hashrate distribution.
 logo: No
 categories: Mining, API
 status: Live

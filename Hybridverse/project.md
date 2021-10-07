@@ -1,5 +1,6 @@
 ---
-name: Hybridversedescription: A multi-chain, distributed and shared infrastructure composed of dApps.
+name: Hybridverse
+description: A multi-chain, distributed and shared infrastructure composed of dApps.
 logo: Yes
 categories: Web3
 status: Live

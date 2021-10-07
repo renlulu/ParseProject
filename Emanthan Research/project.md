@@ -1,5 +1,6 @@
 ---
-name: Emanthan Researchdescription: 
+name: Emanthan Research
+description: 
 logo: 
 categories: Education
 status: N/A

@@ -1,5 +1,6 @@
 ---
-name: DogZilliqadescription: 
+name: DogZilliqa
+description: 
 logo: Yes
 categories: Meme Token
 status: Live

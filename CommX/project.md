@@ -1,5 +1,6 @@
 ---
-name: CommXdescription: A blockchain startup focused on tokenising physical assets for trade on the blockchain.
+name: CommX
+description: A blockchain startup focused on tokenising physical assets for trade on the blockchain.
 logo: Yes
 categories: OpFi
 status: Live

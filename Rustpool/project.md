@@ -1,5 +1,6 @@
 ---
-name: Rustpooldescription: An official Zilliqa mining pool that allows for merge mining.
+name: Rustpool
+description: An official Zilliqa mining pool that allows for merge mining.
 logo: Yes
 categories: Mining
 status: Live

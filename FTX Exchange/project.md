@@ -1,5 +1,6 @@
 ---
-name: FTX Exchangedescription: A centralised cryptocurrency exchange specialising in derivatives and leveraged products. 
+name: FTX Exchange
+description: A centralised cryptocurrency exchange specialising in derivatives and leveraged products. 
 logo: Yes
 categories: Exchange
 status: Live

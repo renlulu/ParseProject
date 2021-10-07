@@ -1,5 +1,6 @@
 ---
-name: Copperdescription: The institutional gateway to digital asset investing.
+name: Copper
+description: The institutional gateway to digital asset investing.
 logo: Yes
 categories: Custody
 status: NA

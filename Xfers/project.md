@@ -1,5 +1,6 @@
 ---
-name: Xfersdescription: A payment solutions provider for businesses, licensed by the Monetary Authority of Singapore.
+name: Xfers
+description: A payment solutions provider for businesses, licensed by the Monetary Authority of Singapore.
 logo: Yes
 categories: Payment
 status: Live

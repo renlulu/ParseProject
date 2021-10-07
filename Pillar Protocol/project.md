@@ -1,5 +1,6 @@
 ---
-name: Pillar Protocoldescription: Protocol for collateral-backed stablecoin soft pegged to USD on Zilliqa.
+name: Pillar Protocol
+description: Protocol for collateral-backed stablecoin soft pegged to USD on Zilliqa.
 logo: no
 categories: Defi
 status: Building

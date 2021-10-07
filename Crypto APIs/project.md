@@ -1,5 +1,6 @@
 ---
-name: Crypto APIsdescription: An infrastructure layer that radically simplifies the development of any blockchain and crypto-related applications.
+name: Crypto APIs
+description: An infrastructure layer that radically simplifies the development of any blockchain and crypto-related applications.
 logo: no
 categories: API
 status: Live

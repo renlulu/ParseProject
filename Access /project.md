@@ -1,5 +1,6 @@
 ---
-name: Access description: A decentralised app that provides NFT-based solutions for events and ticketing. 
+name: Access 
+description: A decentralised app that provides NFT-based solutions for events and ticketing. 
 logo: No
 categories: Education, NFT
 status: Live

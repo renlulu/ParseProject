@@ -1,5 +1,6 @@
 ---
-name: Flat Lazy Ass Tokendescription: 
+name: Flat Lazy Ass Token
+description: 
 logo: Yes
 categories: Meme Token
 status: Live

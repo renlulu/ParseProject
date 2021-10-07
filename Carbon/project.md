@@ -1,5 +1,6 @@
 ---
-name: Carbondescription: Carbon has a basket of dApps built in the Zilliqa ecosystem including Privacy solutions and wallets
+name: Carbon
+description: Carbon has a basket of dApps built in the Zilliqa ecosystem including Privacy solutions and wallets
 logo: yes
 categories: Wallet, dApp, Defi, Tools, Staking
 status: Live

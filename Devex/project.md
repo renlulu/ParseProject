@@ -1,5 +1,6 @@
 ---
-name: Devexdescription: A lightweight, developer focused explorer.
+name: Devex
+description: A lightweight, developer focused explorer.
 logo: Yes
 categories: Explorer, API
 status: Live

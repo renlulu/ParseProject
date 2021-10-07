@@ -1,5 +1,6 @@
 ---
-name: Blockspotdescription: A blockchain data platform that provides insights on different crypto assets.
+name: Blockspot
+description: A blockchain data platform that provides insights on different crypto assets.
 logo: No
 categories: Tools
 status: Live

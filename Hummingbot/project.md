@@ -1,5 +1,6 @@
 ---
-name: Hummingbotdescription: A community-driven open source project that aims to democratise algorithmic trading.
+name: Hummingbot
+description: A community-driven open source project that aims to democratise algorithmic trading.
 logo: Yes
 categories: Tools, OpFi
 status: Live

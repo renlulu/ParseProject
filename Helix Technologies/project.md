@@ -1,5 +1,6 @@
 ---
-name: Helix Technologiesdescription: A developer tool that enables setup of an ETL pipeline in Google Cloud Platform. It aims to integrate Zilliqa’s blockchain data into Google BigQuery database. 
+name: Helix Technologies
+description: A developer tool that enables setup of an ETL pipeline in Google Cloud Platform. It aims to integrate Zilliqa’s blockchain data into Google BigQuery database. 
 logo: 
 categories: API
 status: Live

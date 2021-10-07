@@ -1,5 +1,6 @@
 ---
-name: Mintabledescription: An NFT marketplace where users can create, buy, and sell digital items.
+name: Mintable
+description: An NFT marketplace where users can create, buy, and sell digital items.
 logo: yes
 categories: NFT, dApp
 status: Live

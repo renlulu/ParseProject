@@ -1,5 +1,6 @@
 ---
-name: Cominingdescription: A mining protocol where users can also mine ZIL.
+name: Comining
+description: A mining protocol where users can also mine ZIL.
 logo: Yes
 categories: Mining
 status: Live

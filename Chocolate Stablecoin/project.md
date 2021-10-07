@@ -1,5 +1,6 @@
 ---
-name: Chocolate Stablecoindescription: 
+name: Chocolate Stablecoin
+description: 
 logo: Yes
 categories: Stablecoin, Defi
 status: Live

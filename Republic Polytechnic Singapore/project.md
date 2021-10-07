@@ -1,5 +1,6 @@
 ---
-name: Republic Polytechnic Singaporedescription: Signed a Memorandum of Understanding with Republic Polytechnic to design the new curriculum for the Financial Technology - Diploma course
+name: Republic Polytechnic Singapore
+description: Signed a Memorandum of Understanding with Republic Polytechnic to design the new curriculum for the Financial Technology - Diploma course
 logo: No
 categories: Education
 status: Live

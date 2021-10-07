@@ -1,5 +1,6 @@
 ---
-name: ZilChessdescription: A decentralised chess platform running on the Zilliqa blockchain.
+name: ZilChess
+description: A decentralised chess platform running on the Zilliqa blockchain.
 logo: Yes
 categories: Gaming
 status: Live

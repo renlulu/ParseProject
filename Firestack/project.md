@@ -1,5 +1,6 @@
 ---
-name: Firestackdescription: Built a collection of web3 libraries for Zilliqa
+name: Firestack
+description: Built a collection of web3 libraries for Zilliqa
 logo: Yes
 categories: API, SDK
 status: Live

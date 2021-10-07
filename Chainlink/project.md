@@ -1,5 +1,6 @@
 ---
-name: Chainlinkdescription: The most widely-used open-source oracle network that powers universally connected smart contracts.
+name: Chainlink
+description: The most widely-used open-source oracle network that powers universally connected smart contracts.
 logo: yes
 categories: Oracle
 status: Live

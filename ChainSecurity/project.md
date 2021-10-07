@@ -1,5 +1,6 @@
 ---
-name: ChainSecuritydescription: A blockchain security and audit expert that helps its clients secure their complex systems.
+name: ChainSecurity
+description: A blockchain security and audit expert that helps its clients secure their complex systems.
 logo: yes
 categories: NA
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: ZilChilldescription: Decentralizing the Gaming Industry on Zilliqa
+name: ZilChill
+description: Decentralizing the Gaming Industry on Zilliqa
 logo: 
 categories: Gaming
 status: Live

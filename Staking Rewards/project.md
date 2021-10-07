@@ -1,5 +1,6 @@
 ---
-name: Staking Rewardsdescription: A data provider for staking and crypto-growth tool.
+name: Staking Rewards
+description: A data provider for staking and crypto-growth tool.
 logo: no
 categories: Staking
 status: Live

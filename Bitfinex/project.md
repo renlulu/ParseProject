@@ -1,5 +1,6 @@
 ---
-name: Bitfinexdescription: The longest running and most liquid major cryptocurrency exchange.
+name: Bitfinex
+description: The longest running and most liquid major cryptocurrency exchange.
 logo: yes
 categories: Exchange
 status: Live

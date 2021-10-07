@@ -1,5 +1,6 @@
 ---
-name: Zeydradescription: A matchmaking platform using crypto interactions.
+name: Zeydra
+description: A matchmaking platform using crypto interactions.
 logo: No
 categories: App, dApp
 status: Building

@@ -1,5 +1,6 @@
 ---
-name: ZILWatchdescription: A smart dashboard for you to track prices of ZRC-2 tokens.
+name: ZILWatch
+description: A smart dashboard for you to track prices of ZRC-2 tokens.
 logo: yes
 categories: Dapp, Tools
 status: Live

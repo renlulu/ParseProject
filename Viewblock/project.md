@@ -1,5 +1,6 @@
 ---
-name: Viewblockdescription: An early ecosystem grantee which built Zilliqa's blockchain explorer.
+name: Viewblock
+description: An early ecosystem grantee which built Zilliqa's blockchain explorer.
 logo: yes
 categories: API
 status: Live

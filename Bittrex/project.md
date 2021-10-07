@@ -1,5 +1,6 @@
 ---
-name: Bittrexdescription: A secure, lightning fast, regulated cryptocurrency trading platform.
+name: Bittrex
+description: A secure, lightning fast, regulated cryptocurrency trading platform.
 logo: yes
 categories: Exchange
 status: Live

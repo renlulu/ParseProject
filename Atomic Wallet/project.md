@@ -1,5 +1,6 @@
 ---
-name: Atomic Walletdescription: A secure cryptocurrency wallet that allows users to buy and exchange crypto for USD with credit cards in seconds.
+name: Atomic Wallet
+description: A secure cryptocurrency wallet that allows users to buy and exchange crypto for USD with credit cards in seconds.
 logo: Yes
 categories: Wallet, staking
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: ShardPooldescription: Shardpool built a Zilliqa mining pool with dual mining features and staking services
+name: ShardPool
+description: Shardpool built a Zilliqa mining pool with dual mining features and staking services
 logo: Yes
 categories: Mining
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: HODLdescription: 
+name: HODL
+description: 
 logo: Yes
 categories: Meme Token
 status: Live

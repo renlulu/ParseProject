@@ -1,5 +1,6 @@
 ---
-name: Everstakedescription: A staking service platform that allows you to stake ZIL.
+name: Everstake
+description: A staking service platform that allows you to stake ZIL.
 logo: No
 categories: Staking
 status: Live

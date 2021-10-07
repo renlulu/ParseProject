@@ -1,5 +1,6 @@
 ---
-name: Boltdescription: A decentralised content platform that aims to democratise the chain between content producers and users.
+name: Bolt
+description: A decentralised content platform that aims to democratise the chain between content producers and users.
 logo: yes
 categories: Wallet, dApp
 status: Live

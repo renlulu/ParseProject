@@ -1,5 +1,6 @@
 ---
-name: Zyrodescription: Protocol for automated liquidity built on Zilliqa.
+name: Zyro
+description: Protocol for automated liquidity built on Zilliqa.
 logo: yes
 categories: DeFi
 status: Live

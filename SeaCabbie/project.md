@@ -1,5 +1,6 @@
 ---
-name: SeaCabbiedescription: 
+name: SeaCabbie
+description: 
 logo: 
 categories: 
 status: NA

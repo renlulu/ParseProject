@@ -1,5 +1,6 @@
 ---
-name: Demonsdescription: DeMons is an exclusive, gamified, collectibles series that allows its holders to earn yields while holding their NFTs.
+name: Demons
+description: DeMons is an exclusive, gamified, collectibles series that allows its holders to earn yields while holding their NFTs.
 logo: Yes
 categories: NFT, Gaming, Dapp, Metaverse
 status: Live

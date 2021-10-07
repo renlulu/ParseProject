@@ -1,5 +1,6 @@
 ---
-name: Pele Networkdescription: A decentralised media ecosystem aimed at taking the power back for creators. 
+name: Pele Network
+description: A decentralised media ecosystem aimed at taking the power back for creators. 
 logo: yes
 categories: NFT, Metaverse, Dapp
 status: Live

@@ -1,5 +1,6 @@
 ---
-name: WAFUdescription: The official account for $Wafu Token. Buy, Sell, Trade and Auction Waifu Trading Cards
+name: WAFU
+description: The official account for $Wafu Token. Buy, Sell, Trade and Auction Waifu Trading Cards
 logo: 
 categories: NFT
 status: Building

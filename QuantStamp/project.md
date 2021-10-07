@@ -1,5 +1,6 @@
 ---
-name: QuantStampdescription: A trusted leader in blockchain security, delivering end-to-end blockchain solutions for the world's largest companies.
+name: QuantStamp
+description: A trusted leader in blockchain security, delivering end-to-end blockchain solutions for the world's largest companies.
 logo: No
 categories: Tools
 status: Live

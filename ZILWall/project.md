@@ -1,5 +1,6 @@
 ---
-name: ZILWalldescription: A creative collaboration pixel art project where communities can collaborate on canvases to create their own art.
+name: ZILWall
+description: A creative collaboration pixel art project where communities can collaborate on canvases to create their own art.
 logo: yes
 categories: NFT, Dapp
 status: Live

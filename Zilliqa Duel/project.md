@@ -1,5 +1,6 @@
 ---
-name: Zilliqa Dueldescription: 
+name: Zilliqa Duel
+description: 
 logo: 
 categories: 
 status: NA
